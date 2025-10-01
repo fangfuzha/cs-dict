@@ -1,0 +1,1885 @@
+a block of pointers _ablockofpointers
+一块指针 yi'kuai'zhi'zhen
+一组指针 yi'zu'zhi'zhen
+abbreviation _abbreviation
+缩略语 suo'lue'yu
+abstract _abstract
+抽象的 chou'xiang'de
+abstract syntax tree _abstractsyntaxtree
+AST _AST
+抽象语法树 chou'xiang'yu'fa'shu
+abstraction _abstraction
+抽象 chou'xiang
+abstraction barrier _abstractionbarrier
+抽象屏障 chou'xiang'ping'zhang
+抽象阻碍 chou'xiang'zu'ai
+abstraction of function calls _abstractionoffunctioncalls
+函数调用抽象 han'shu'diao'yong'chou'xiang
+access _access
+访问 fang'wen
+存取 cun'qu
+access function _accessfunction
+访问函数 fang'wen'han'shu
+存取函数 cun'qu'han'shu
+accumulator _accumulator
+累加器 lei'jia'qi
+activate _activate
+激活 ji'huo
+ad hoc _adhoc
+专设 zhuan'she
+adapter _adapter
+适配器 shi'pei'qi
+address _address
+地址 di'zhi
+algebraic data type _algebraicdatatype
+代数数据类型 dai'shu'shu'ju'lei'xing
+algorithm _algorithm
+算法 suan'fa
+alias _alias
+别名 bie'ming
+allocate _allocate
+分配 fen'pei
+配置 pei'zhi
+alternative _alternative
+备选 bei'xuan
+amortized analysis _amortizedanalysis
+平摊分析 ping'tan'fen'xi
+anaphoric _anaphoric
+指代 zhi'dai
+annotation _annotation
+注解 zhu'jie
+anonymous function _anonymousfunction
+匿名函数 ni'ming'han'shu
+antecedent _antecedent
+前提 qian'ti
+前件 qian'jian
+先决条件 xian'jue'tiao'jian
+append _append
+追加 zhui'jia
+拼接 pin'jie
+application _application
+应用 ying'yong
+应用程序 ying'yong'cheng'xu
+application framework _applicationframework
+应用框架 ying'yong'kuang'jia
+application program interface _applicationprograminterface
+API _API
+应用程序编程接口 ying'yong'cheng'xu'bian'cheng'jie'kou
+application service provider _applicationserviceprovider
+ASP _ASP
+应用程序服务提供商 ying'yong'cheng'xu'fu'wu'ti'gong'shang
+applicative _applicative
+应用序 ying'yong'xu
+argument _argument
+参数 can'shu
+自变量 zi'bian'liang
+实际参数 shi'ji'can'shu
+实参 shi'can
+arithmetic _arithmetic
+算术 suan'shu
+array _array
+数组 shu'zu
+artificial intelligence _artificialintelligence
+AI _AI
+人工智能 ren'gong'zhi'neng
+assemble _assemble
+组合 zu'he
+assembly _assembly
+汇编 hui'bian
+assignment _assignment
+赋值 fu'zhi
+assignment operator _assignmentoperator
+赋值操作符 fu'zhi'cao'zuo'fu
+associated _associated
+关联的 guan'lian'de
+association list _associationlist
+alist _alist
+关联列表 guan'lian'lie'biao
+atom _atom
+原子 yuan'zi
+atomic _atomic
+原子的 yuan'zi'de
+atomic value _atomicvalue
+原子型值 yuan'zi'xing'zhi
+attribute _attribute
+属性 shu'xing
+特性 te'xing
+augmented _augmented
+扩充 kuo'chong
+automatic memory management _automaticmemorymanagement
+自动内存管理 zi'dong'nei'cun'guan'li
+automatically infer _automaticallyinfer
+自动推导 zi'dong'tui'dao
+autometa theory _autometatheory
+自动机理论 zi'dong'ji'li'lun
+auxiliary _auxiliary
+辅助 fu'zhu
+backquote _backquote
+反引用 fan'yin'yong
+backtrace _backtrace
+回溯 hui'su
+backward compatible _backwardcompatible
+向下兼容 xiang'xia'jian'rong
+bandwidth _bandwidth
+带宽 dai'kuan
+base case _basecase
+基本情形 ji'ben'qing'xing
+base class _baseclass
+基类 ji'lei
+Bayes' theorem _Bayestheorem
+贝叶斯定理 bei'ye'si'ding'li
+best viable function _bestviablefunction
+最佳可行函式 zui'jia'ke'xing'han'shi
+最佳可行函数 zui'jia'ke'xing'han'shu
+Bezier curve _Beziercurve
+贝塞尔曲线 bei'sai'er'qu'xian
+bignum _bignum
+大数 da'shu
+binary operator _binaryoperator
+二元操作符 er'yuan'cao'zuo'fu
+binary search _binarysearch
+二分查找 er'fen'cha'zhao
+二分搜索 er'fen'sou'suo
+二叉搜索 er'cha'sou'suo
+binary search tree _binarysearchtree
+二叉搜索树 er'cha'sou'suo'shu
+binary tree _binarytree
+二叉树 er'cha'shu
+binding _binding
+绑定 bang'ding
+binding vector _bindingvector
+绑定向量 bang'ding'xiang'liang
+bit _bit
+位 wei
+比特 bi'te
+bit manipulation _bitmanipulation
+位操作 wei'cao'zuo
+black box abstraction _blackboxabstraction
+黑箱抽象 hei'xiang'chou'xiang
+block _block
+块 kuai
+区块 qu'kuai
+block structure _blockstructure
+块结构 kuai'jie'gou
+区块结构 qu'kuai'jie'gou
+block name _blockname
+代码块名字 dai'ma'kuai'ming'zi
+Blub paradox _Blubparadox
+Blub 困境 _Blub'kun'jing
+body _body
+体 ti
+主体 zhu'ti
+boilerplate _boilerplate
+公式化 gong'shi'hua
+样板 yang'ban
+bookkeeping _bookkeeping
+簿记 bu'ji
+boolean _boolean
+布尔 bu'er
+border _border
+边框 bian'kuang
+bottom-up design _bottomupdesign
+自底向上的设计 zi'di'xiang'shang'de'she'ji
+bottom-up programming _bottomupprogramming
+自底向上编程 zi'di'xiang'shang'bian'cheng
+bound _bound
+边界 bian'jie
+bounds checking _boundschecking
+边界检查 bian'jie'jian'cha
+box notation _boxnotation
+箱子表示法 xiang'zi'biao'shi'fa
+brace _brace
+花括弧 hua'kuo'hu
+花括号 hua'kuo'hao
+bracket _bracket
+方括弧 fang'kuo'hu
+方括号 fang'kuo'hao
+branch _branch
+分支 fen'zhi
+跳转 tiao'zhuan
+breadth-first _breadthfirst
+广度优先 guang'du'you'xian
+breadth-first search _breadthfirstsearch
+BFS _BFS
+广度优先搜索 guang'du'you'xian'sou'suo
+breakpoint _breakpoint
+断点 duan'dian
+brevity _brevity
+简洁 jian'jie
+buffer _buffer
+缓冲区 huan'chong'qu
+buffer overflow attack _bufferoverflowattack
+缓冲区溢出攻击 huan'chong'qu'yi'chu'gong'ji
+bug _bug
+臭虫 chou'chong
+building _building
+创建 chuang'jian
+built-in _builtin
+内置 nei'zhi
+byte _byte
+字节 zi'jie
+bytecode _bytecode
+字节码 zi'jie'ma
+cache _cache
+缓存 huan'cun
+call _call
+调用 diao'yong
+callback _callback
+回调 hui'tiao
+CamelCase _CamelCase
+驼峰式大小写 tuo'feng'shi'da'xiao'xie
+candidate function _candidatefunction
+候选函数 hou'xuan'han'shu
+capture _capture
+捕捉 bu'zhuo
+case _case
+分支 fen'zhi
+character _character
+字符 zi'fu
+checksum _checksum
+校验和 xiao'yan'he
+child class _childclass
+子类 zi'lei
+choke point _chokepoint
+滞塞点 zhi'sai'dian
+chunk _chunk
+块 kuai
+circular definition _circulardefinition
+循环定义 xun'huan'ding'yi
+clarity _clarity
+清晰 qing'xi
+class _class
+类 lei
+类别 lei'bie
+class declaration _classdeclaration
+类声明 lei'sheng'ming
+class library _classlibrary
+类库 lei'ku
+client _client
+客户 ke'hu
+客户端 ke'hu'duan
+clipboard _clipboard
+剪贴板 jian'tie'ban
+clone _clone
+克隆 ke'long
+closed world assumption _closedworldassumption
+封闭世界假定 feng'bi'shi'jie'jia'ding
+closure _closure
+闭包 bi'bao
+clutter _clutter
+杂乱 za'luan
+code _code
+代码 dai'ma
+code bloat _codebloat
+代码膨胀 dai'ma'peng'zhang
+collection _collection
+收集器 shou'ji'qi
+复合类型 fu'he'lei'xing
+column _column
+行 hang
+栏 lan
+column-major order _columnmajororder
+行主序 hang'zhu'xu
+comma _comma
+逗号 dou'hao
+command-line _commandline
+命令行 ming'ling'hang
+command-line interface _commandlineinterface
+CLI _CLI
+命令行界面 ming'ling'hang'jie'mian
+Common Lisp Object System _CommonLispObjectSystem
+CLOS _CLOS
+Common Lisp 对象系统 _CommonLisp'dui'xiang'xi'tong
+Common Gateway Interface _CommonGatewayInterface
+CGI _CGI
+通用网关接口 tong'yong'wang'guan'jie'kou
+compatible _compatible
+兼容 jian'rong
+compilation _compilation
+编译 bian'yi
+compilation parameter _compilationparameter
+编译参数 bian'yi'can'shu
+compile _compile
+编译 bian'yi
+compile inline _compileinline
+内联编译 nei'lian'bian'yi
+compile time _compiletime
+编译期 bian'yi'qi
+compiled form _compiledform
+编译后的形式 bian'yi'hou'de'xing'shi
+compiler _compiler
+编译器 bian'yi'qi
+complex _complex
+复杂 fu'za
+complexity _complexity
+复杂度 fu'za'du
+compliment _compliment
+补集 bu'ji
+component _component
+组件 zu'jian
+composability _composability
+可组合性 ke'zu'he'xing
+composition _composition
+组合 zu'he
+组合函数 zu'he'han'shu
+compound value _compoundvalue
+复合数据 fu'he'shu'ju
+复合值 fu'he'zhi
+compression _compression
+压缩 ya'suo
+computation _computation
+计算 ji'suan
+computer _computer
+计算机 ji'suan'ji
+concatenation _concatenation
+串接 chuan'jie
+concept _concept
+概念 gai'nian
+concrete _concrete
+具体 ju'ti
+concurrency _concurrency
+并发 bing'fa
+concurrent _concurrent
+并发 bing'fa
+conditional _conditional
+条件式 tiao'jian'shi
+conditional variable _conditionalvariable
+条件变量 tiao'jian'bian'liang
+configuration _configuration
+配置 pei'zhi
+connection _connection
+连接 lian'jie
+cons _cons
+构造 gou'zao
+cons cell _conscell
+构元 gou'yuan
+cons 单元 _cons'dan'yuan
+consequent _consequent
+结果 jie'guo
+推论 tui'lun
+consistent _consistent
+一致性 yi'zhi'xing
+constant _constant
+常量 chang'liang
+constraint _constraint
+约束 yue'shu
+constraint programming _constraintprogramming
+约束式编程 yue'shu'shi'bian'cheng
+container _container
+容器 rong'qi
+content-based filtering _contentbasedfiltering
+基于内容的过滤 ji'yu'nei'rong'de'guo'lv
+context _context
+上下文 shang'xia'wen
+语境 yu'jing
+环境 huan'jing
+continuation _continuation
+延续性 yan'xu'xing
+continuous integration _continuousintegration
+CI _CI
+持续集成 chi'xu'ji'cheng
+control _control
+控件 kong'jian
+cooperative multitasking _cooperativemultitasking
+协作式多任务 xie'zuo'shi'duo'ren'wu
+copy _copy
+拷贝 kao'bei
+corollary _corollary
+推论 tui'lun
+coroutine _coroutine
+协程 xie'cheng
+corruption _corruption
+程序崩溃 cheng'xu'beng'kui
+crash _crash
+崩溃 beng'kui
+create _create
+创建 chuang'jian
+crystallize _crystallize
+固化 gu'hua
+curly _curly
+括弧状的 kuo'hu'zhuang'de
+curried _curried
+柯里的 ke'li'de
+currying _currying
+柯里化 ke'li'hua
+cursor _cursor
+光标 guang'biao
+curvy _curvy
+卷曲的 juan'qu'de
+cycle _cycle
+周期 zhou'qi
+dangling pointer _danglingpointer
+迷途指针 mi'tu'zhi'zhen
+野指针 ye'zhi'zhen
+Defense Advanced Research Projects Agency _DefenseAdvancedResearchProjectsAgency
+DARPA _DARPA
+美国国防部高级研究计划局 mei'guo'guo'fang'bu'gao'ji'yan'jiu'ji'hua'ju
+data _data
+数据 shu'ju
+data structure _datastructure
+数据结构 shu'ju'jie'gou
+data type _datatype
+数据类型 shu'ju'lei'xing
+data-driven _datadriven
+数据驱动 shu'ju'qu'dong
+database _database
+数据库 shu'ju'ku
+database schema _databaseschema
+数据库模式 shu'ju'ku'mo'shi
+datagram _datagram
+数据报文 shu'ju'bao'wen
+dead lock _deadlock
+死锁 si'suo
+debug _debug
+调试 tiao'shi
+debugger _debugger
+调试器 tiao'shi'qi
+debugging _debugging
+调试 tiao'shi
+declaration _declaration
+声明 sheng'ming
+declaration forms _declarationforms
+声明形式 sheng'ming'xing'shi
+declarative _declarative
+声明式 sheng'ming'shi
+说明式 shuo'ming'shi
+declarative knowledge _declarativeknowledge
+声明式知识 sheng'ming'shi'zhi'shi
+说明式知识 shuo'ming'shi'zhi'shi
+declarative programming _declarativeprogramming
+声明式编程 sheng'ming'shi'bian'cheng
+说明式编程 shuo'ming'shi'bian'cheng
+declarativeness _declarativeness
+可声明性 ke'sheng'ming'xing
+declaring _declaring
+声明 sheng'ming
+deconstruction _deconstruction
+解构 jie'gou
+deduction _deduction
+推导 tui'dao
+推断 tui'duan
+default _default
+缺省 que'sheng
+默认 mo'ren
+defer _defer
+推迟 tui'chi
+deficiency _deficiency
+缺陷 que'xian
+不足 bu'zu
+define _define
+定义 ding'yi
+definition _definition
+定义 ding'yi
+delegate _delegate
+委托 wei'tuo
+delegation _delegation
+dellocate _dellocate
+释放 shi'fang
+demarshal _demarshal
+散集 san'ji
+deprecated _deprecated
+废弃 fei'qi
+depth-first _depthfirst
+深度优先 shen'du'you'xian
+depth-first search _depthfirstsearch
+BFS _BFS
+深度优先搜索 shen'du'you'xian'sou'suo
+derived _derived
+派生 pai'sheng
+derived class _derivedclass
+派生类 pai'sheng'lei
+design pattern _designpattern
+设计模式 she'ji'mo'shi
+designator _designator
+指示符 zhi'shi'fu
+destructive _destructive
+破坏性的 po'huai'xing'de
+destructive function _destructivefunction
+破坏性函数 po'huai'xing'han'shu
+destructuring _destructuring
+解构 jie'gou
+device driver _devicedriver
+硬件驱动程序 ying'jian'qu'dong'cheng'xu
+dimensions _dimensions
+维度 wei'du
+directive _directive
+指令 zhi'ling
+directive _directive
+指示符 zhi'shi'fu
+directory _directory
+目录 mu'lu
+disk _disk
+盘 pan
+dispatch _dispatch
+分派 fen'pai
+派发 pai'fa
+distributed computing _distributedcomputing
+分布式计算 fen'bu'shi'ji'suan
+DLL hell _DLLhell
+DLL 地狱 _DLL'di'yu
+document _document
+文档 wen'dang
+dotted list _dottedlist
+点状列表 dian'zhuang'lie'biao
+dotted-pair notation _dottedpairnotation
+带点尾部表示法 dai'dian'wei'bu'biao'shi'fa
+带点尾部记法 dai'dian'wei'bu'ji'fa
+duplicate _duplicate
+复本 fu'ben
+dynamic binding _dynamicbinding
+动态绑定 dong'tai'bang'ding
+dynamic extent _dynamicextent
+动态范围 dong'tai'fan'wei
+dynamic languages _dynamiclanguages
+动态语言 dong'tai'yu'yan
+dynamic scope _dynamicscope
+动态作用域 dong'tai'zuo'yong'yu
+dynamic type _dynamictype
+动态类型 dong'tai'lei'xing
+effect _effect
+效果 xiao'guo
+efficiency _efficiency
+效率 xiao'lv
+efficient _efficient
+高效 gao'xiao
+elaborate _elaborate
+elucidating _elucidating
+embedded language _embeddedlanguage
+嵌入式语言 qian'ru'shi'yu'yan
+emulate _emulate
+仿真 fang'zhen
+encapsulation _encapsulation
+封装 feng'zhuang
+enum _enum
+枚举 mei'ju
+enumeration type _enumerationtype
+枚举类型 mei'ju'lei'xing
+enumrators _enumrators
+枚举器 mei'ju'qi
+environment _environment
+环境 huan'jing
+equal _equal
+相等 xiang'deng
+equality _equality
+相等性 xiang'deng'xing
+equation _equation
+方程 fang'cheng
+equivalence _equivalence
+等价性 deng'jia'xing
+error message _errormessage
+错误信息 cuo'wu'xin'xi
+error-checking _errorchecking
+错误检查 cuo'wu'jian'cha
+escaped _escaped
+逃脱 tao'tuo
+溢出 yi'chu
+escape character _escapecharacter
+转义字符 zhuan'yi'zi'fu
+evaluate _evaluate
+求值 qiu'zhi
+评估 ping'gu
+evaluation _evaluation
+求值 qiu'zhi
+event _event
+事件 shi'jian
+event driven _eventdriven
+事件驱动 shi'jian'qu'dong
+exception _exception
+异常 yi'chang
+exception handling _exceptionhandling
+异常处理 yi'chang'chu'li
+exception specification _exceptionspecification
+异常规范 yi'chang'gui'fan
+exit _exit
+退出 tui'chu
+expendable _expendable
+可扩展的 ke'kuo'zhan'de
+explicit _explicit
+显式 xian'shi
+exploratory programming _exploratoryprogramming
+探索式编程 tan'suo'shi'bian'cheng
+export _export
+导出 dao'chu
+引出 yin'chu
+expression _expression
+表达式 biao'da'shi
+expressive power _expressivepower
+表达能力 biao'da'neng'li
+extensibility _extensibility
+可扩展性 ke'kuo'zhan'xing
+extent _extent
+范围 fan'wei
+程度 cheng'du
+external representation _externalrepresentation
+外部表示法 wai'bu'biao'shi'fa
+extreme programming _extremeprogramming
+极限编程 ji'xian'bian'cheng
+factorial _factorial
+阶乘 jie'cheng
+family _family
+（类型的）系 lei'xing'de'xi
+feasible _feasible
+可行的 ke'xing'de
+feature _feature
+特色 te'se
+field _field
+字段 zi'duan
+栏位 lan'wei
+file _file
+文件 wen'jian
+file handle _filehandle
+文件句柄 wen'jian'ju'bing
+fill pointer _fillpointer
+填充指针 tian'chong'zhi'zhen
+fineo-grained _fineograined
+细粒度 xi'li'du
+firmware _firmware
+固件 gu'jian
+first-class _firstclass
+第一类的 di'yi'lei'de
+第一级的 di'yi'ji'de
+一等的 yi'deng'de
+first-class function _firstclassfunction
+第一级函数 di'yi'ji'han'shu
+第一类函数 di'yi'lei'han'shu
+一等函数 yi'deng'han'shu
+first-class object _firstclassobject
+第一类的对象 di'yi'lei'de'dui'xiang
+第一级的对象 di'yi'ji'de'dui'xiang
+一等公民 yi'deng'gong'min
+fixed-point _fixedpoint
+不动点 bu'dong'dian
+fixnum _fixnum
+定长数 ding'zhang'shu
+定点数 ding'dian'shu
+flag _flag
+标记 biao'ji
+flash _flash
+闪存 shan'cun
+flexibility _flexibility
+灵活性 ling'huo'xing
+floating-point _floatingpoint
+浮点数 fu'dian'shu
+floating-point notation _floatingpointnotation
+浮点数表示法 fu'dian'shu'biao'shi'fa
+flush _flush
+刷新 shua'xin
+fold _fold
+折叠 zhe'die
+font _font
+字体 zi'ti
+force _force
+迫使 po'shi
+form _form
+形式 xing'shi
+form _form
+表单 biao'dan
+formal parameter _formalparameter
+形参 xing'can
+formal relation _formalrelation
+形式关系 xing'shi'guan'xi
+forward _forward
+转发 zhuan'fa
+forward references _forwardreferences
+fractal _fractal
+分形 fen'xing
+fractions _fractions
+派系 pai'xi
+framework _framework
+框架 kuang'jia
+freeware _freeware
+自由软件 zi'you'ruan'jian
+function _function
+函数 han'shu
+function literal _functionliteral
+函数字面常量 han'shu'zi'mian'chang'liang
+function object _functionobject
+函数对象 han'shu'dui'xiang
+functional arguments _functionalarguments
+函数型参数 han'shu'xing'can'shu
+functional programming _functionalprogramming
+函数式编程 han'shu'shi'bian'cheng
+functionality _functionality
+功能性 gong'neng'xing
+game _game
+游戏 you'xi
+garbage _garbage
+垃圾 la'ji
+garbage collection _garbagecollection
+垃圾回收 la'ji'hui'shou
+garbage collector _garbagecollector
+垃圾回收器 la'ji'hui'shou'qi
+generalized _generalized
+泛化 fan'hua
+generalized variable _generalizedvariable
+广义变量 guang'yi'bian'liang
+generate _generate
+生成 sheng'cheng
+generator _generator
+生成器 sheng'cheng'qi
+generic _generic
+通用的 tong'yong'de
+泛化的 fan'hua'de
+generic algorithm _genericalgorithm
+通用算法 tong'yong'suan'fa
+泛型算法 fan'xing'suan'fa
+generic function _genericfunction
+通用函数 tong'yong'han'shu
+generic programming _genericprogramming
+通用编程 tong'yong'bian'cheng
+泛型编程 fan'xing'bian'cheng
+genrative programming _genrativeprogramming
+生产式编程 sheng'chan'shi'bian'cheng
+global _global
+全局的 quan'ju'de
+global declaration _globaldeclaration
+全局声明 quan'ju'sheng'ming
+glue program _glueprogram
+胶水程序 jiao'shui'cheng'xu
+goto _goto
+跳转 tiao'zhuan
+graphical user interface _graphicaluserinterface
+GUI _GUI
+图形用户界面 tu'xing'yong'hu'jie'mian
+greatest common divisor _greatestcommondivisor
+最大公因数 zui'da'gong'yin'shu
+Greenspun's tenth rule _Greenspunstenthrule
+格林斯潘第十定律 ge'lin'si'pan'di'shi'ding'lv
+hack _hack
+破解 po'jie
+hacker _hacker
+黑客 hei'ke
+handle _handle
+处理器 chu'li'qi
+处理程序 chu'li'cheng'xu
+句柄 ju'bing
+hard disk _harddisk
+硬盘 ying'pan
+hard-wire _hardwire
+hardware _hardware
+硬件 ying'jian
+hash tables _hashtables
+哈希表 ha'xi'biao
+散列表 san'lie'biao
+header _header
+头部 tou'bu
+header file _headerfile
+头文件 tou'wen'jian
+heap _heap
+堆 dui
+helper _helper
+辅助函数 fu'zhu'han'shu
+辅助方法 fu'zhu'fang'fa
+heuristic _heuristic
+启发式 qi'fa'shi
+high-order _highorder
+高阶 gao'jie
+higher-order function _higherorderfunction
+高阶函数 gao'jie'han'shu
+higher-order procedure _higherorderprocedure
+高阶过程 gao'jie'guo'cheng
+hyperlink _hyperlink
+超链接 chao'lian'jie
+HyperText Markup Language _HyperTextMarkupLanguage
+HTML _HTML
+超文本标记语言 chao'wen'ben'biao'ji'yu'yan
+HyperText Transfer Protocol _HyperTextTransferProtocol
+HTTP _HTTP
+超文本传输协议 chao'wen'ben'chuan'shu'xie'yi
+identical _identical
+一致 yi'zhi
+identifier _identifier
+标识符 biao'shi'fu
+identity _identity
+同一性 tong'yi'xing
+ill type _illtype
+类型不正确 lei'xing'bu'zheng'que
+illusion _illusion
+错觉 cuo'jue
+imperative _imperative
+命令式 ming'ling'shi
+imperative programming _imperativeprogramming
+命令式编程 ming'ling'shi'bian'cheng
+implement _implement
+实现 shi'xian
+implementation _implementation
+实现 shi'xian
+implicit _implicit
+隐式 yin'shi
+import _import
+导入 dao'ru
+incremental testing _incrementaltesting
+增量测试 zeng'liang'ce'shi
+indent _indent
+缩排 suo'pai
+缩进 suo'jin
+indentation _indentation
+缩排 suo'pai
+缩进 suo'jin
+indented _indented
+缩排 suo'pai
+缩进 suo'jin
+indention _indention
+缩排 suo'pai
+缩进 suo'jin
+infer _infer
+推导 tui'dao
+infinite loop _infiniteloop
+无限循环 wu'xian'xun'huan
+infinite recursion _infiniterecursion
+无限递归 wu'xian'di'gui
+infinite precision _infiniteprecision
+无限精度 wu'xian'jing'du
+infix _infix
+中序 zhong'xu
+information _information
+信息 xin'xi
+information technology _informationtechnology
+IT _IT
+信息技术 xin'xi'ji'shu
+inheritance _inheritance
+继承 ji'cheng
+initialization _initialization
+初始化 chu'shi'hua
+initialize _initialize
+初始化 chu'shi'hua
+inline _inline
+内联 nei'lian
+inline expansion _inlineexpansion
+内联展开 nei'lian'zhan'kai
+inner class _innerclass
+内嵌类 nei'qian'lei
+inner loop _innerloop
+内层循环 nei'ceng'xun'huan
+input _input
+输入 shu'ru
+instances _instances
+实例 shi'li
+instantiate _instantiate
+实例化 shi'li'hua
+instructive _instructive
+教学性的 jiao'xue'xing'de
+instrument _instrument
+记录仪 ji'lu'yi
+integer _integer
+整数 zheng'shu
+integrate _integrate
+集成 ji'cheng
+interactive language _interactivelanguage
+交互式语言 jiao'hu'shi'yu'yan
+interactive programming environment _interactiveprogrammingenvironment
+交互式编程环境 jiao'hu'shi'bian'cheng'huan'jing
+interactive testing _interactivetesting
+交互式测试 jiao'hu'shi'ce'shi
+interacts _interacts
+交互 jiao'hu
+interface _interface
+接口 jie'kou
+intermediate form _intermediateform
+过渡形式 guo'du'xing'shi
+中间形式 zhong'jian'xing'shi
+internal _internal
+内部 nei'bu
+internet _internet
+互联网 hu'lian'wang
+因特网 yin'te'wang
+interpolation _interpolation
+插值 cha'zhi
+interpret _interpret
+解释 jie'shi
+interpreter _interpreter
+解释器 jie'shi'qi
+interrupt _interrupt
+中止 zhong'zhi
+中断 zhong'duan
+intersection _intersection
+交集 jiao'ji
+inter-process communication _interprocesscommunication
+IPC _IPC
+进程间通信 jin'cheng'jian'tong'xin
+invariants _invariants
+约束条件 yue'shu'tiao'jian
+invoke _invoke
+调用 diao'yong
+item _item
+项 xiang
+iterate _iterate
+迭代 die'dai
+iteration _iteration
+迭代的 die'dai'de
+iterative _iterative
+迭代的 die'dai'de
+iterator _iterator
+迭代器 die'dai'qi
+jagged _jagged
+锯齿状的 ju'chi'zhuang'de
+job control language _jobcontrollanguage
+JCL _JCL
+作业控制语言 zuo'ye'kong'zhi'yu'yan
+judicious _judicious
+明智的 ming'zhi'de
+kernel _kernel
+核心 he'xin
+kernel language _kernellanguage
+核心语言 he'xin'yu'yan
+keyword argument _keywordargument
+关键字参数 guan'jian'zi'can'shu
+keywords _keywords
+关键字 guan'jian'zi
+kludge _kludge
+蹩脚 bie'jiao
+lambda calculus _lambdacalculus
+lambda 演算 _lambda'yan'suan
+larval startup _larvalstartup
+雏形创业公司 chu'xing'chuang'ye'gong'si
+laser _laser
+激光 ji'guang
+latitude _latitude
+layout _layout
+版型 ban'xing
+lazy _lazy
+惰性 duo'xing
+lazy evaluation _lazyevaluation
+惰性求值 duo'xing'qiu'zhi
+legacy software _legacysoftware
+历史遗留软件 li'shi'yi'liu'ruan'jian
+leverage _leverage
+杠杆 gang'gan
+(动词)利用 dong'ci'li'yong
+lexical _lexical
+词法的 ci'fa'de
+lexical analysis _lexicalanalysis
+词法分析 ci'fa'fen'xi
+lexical closure _lexicalclosure
+词法闭包 ci'fa'bi'bao
+lexical scope _lexicalscope
+词法作用域 ci'fa'zuo'yong'yu
+Language For Smart People _LanguageForSmartPeople
+LFSP _LFSP
+聪明人的语言 cong'ming'ren'de'yu'yan
+library _library
+库 ku
+函数库 han'shu'ku
+函式库 han'shi'ku
+lifetime _lifetime
+生命期 sheng'ming'qi
+linear iteration _lineariteration
+线性迭代 xian'xing'die'dai
+linear recursion _linearrecursion
+线性递归 xian'xing'di'gui
+link _link
+链接 lian'jie
+连接 lian'jie
+linker _linker
+连接器 lian'jie'qi
+list _list
+列表 lie'biao
+list operation _listoperation
+列表操作 lie'biao'cao'zuo
+literal _literal
+字面 zi'mian
+literal constant _literalconstant
+字面常量 zi'mian'chang'liang
+literal representation _literalrepresentation
+字面量 zi'mian'liang
+load _load
+装载 zhuang'zai
+加载 jia'zai
+loader _loader
+装载器 zhuang'zai'qi
+加载器 jia'zai'qi
+local _local
+局部的 ju'bu'de
+局域的 ju'yu'de
+local declarations _localdeclarations
+局部声明 ju'bu'sheng'ming
+local function _localfunction
+局部函数 ju'bu'han'shu
+局域函数 ju'yu'han'shu
+local variable _localvariable
+局部变量 ju'bu'bian'liang
+局域变量 ju'yu'bian'liang
+locality _locality
+局部性 ju'bu'xing
+loop _loop
+循环 xun'huan
+lvalue _lvalue
+左值 zuo'zhi
+machine instruction _machineinstruction
+机器指令 ji'qi'zhi'ling
+machine language _machinelanguage
+机器语言 ji'qi'yu'yan
+machine language code _machinelanguagecode
+机器语言代码 ji'qi'yu'yan'dai'ma
+machine learning _machinelearning
+机器学习 ji'qi'xue'xi
+macro _macro
+宏 hong
+mailing list _mailinglist
+邮件列表 you'jian'lie'biao
+mainframes _mainframes
+大型机 da'xing'ji
+maintain _maintain
+维护 wei'hu
+manifest typing _manifesttyping
+显式类型 xian'shi'lei'xing
+manipulator _manipulator
+操纵器 cao'zong'qi
+mapping _mapping
+映射 ying'she
+mapping functions _mappingfunctions
+映射函数 ying'she'han'shu
+marshal _marshal
+列集 lie'ji
+math envy _mathenvy
+对数学家的妒忌 dui'shu'xue'jia'de'du'ji
+member _member
+成员 cheng'yuan
+memorizing _memorizing
+记忆化 ji'yi'hua
+memory _memory
+内存 nei'cun
+memory allocation _memoryallocation
+内存分配 nei'cun'fen'pei
+memory leaks _memoryleaks
+内存泄漏 nei'cun'xie'lou
+menu _menu
+菜单 cai'dan
+message _message
+消息 xiao'xi
+message-passing _messagepassing
+消息传递 xiao'xi'chuan'di
+meta- _meta
+元- yuan
+meta-programming _metaprogramming
+元编程 yuan'bian'cheng
+metacircular _metacircular
+元循环 yuan'xun'huan
+method _method
+方法 fang'fa
+method combination _methodcombination
+方法组合 fang'fa'zu'he
+方法组合机制 fang'fa'zu'he'ji'zhi
+micro _micro
+微 wei
+middleware _middleware
+中间件 zhong'jian'jian
+migration _migration
+（数据库）迁移 shu'ju'ku'qian'yi
+minimal network _minimalnetwork
+最小网络 zui'xiao'wang'luo
+mirror _mirror
+镜射 jing'she
+mismatch type _mismatchtype
+类型不匹配 lei'xing'bu'pi'pei
+model _model
+模型 mo'xing
+modem _modem
+调制解调器 tiao'zhi'jie'tiao'qi
+modifier _modifier
+修饰符 xiu'shi'fu
+modularity _modularity
+模块性 mo'kuai'xing
+module _module
+模块 mo'kuai
+monad _monad
+单子 dan'zi
+monkey patch _monkeypatch
+猴子补丁 hou'zi'bu'ding
+monomorphic type language _monomorphictypelanguage
+单型语言 dan'xing'yu'yan
+Moore's law _Mooreslaw
+摩尔定律 mo'er'ding'lv
+mouse _mouse
+鼠标 shu'biao
+multi-task _multitask
+多任务 duo'ren'wu
+multiple values _multiplevalues
+多值 duo'zhi
+mutable _mutable
+可变的 ke'bian'de
+mutex _mutex
+互斥锁 hu'chi'suo
+Multiple Virtual Storage _MultipleVirtualStorage
+MVS _MVS
+多重虚拟存储 duo'chong'xu'ni'cun'chu
+namespace _namespace
+命名空间 ming'ming'kong'jian
+native _native
+本地的 ben'di'de
+native code _nativecode
+本地码 ben'di'ma
+natural language _naturallanguage
+自然语言 zi'ran'yu'yan
+natural language processing _naturallanguageprocessing
+自然语言处理 zi'ran'yu'yan'chu'li
+nested _nested
+嵌套 qian'tao
+nested class _nestedclass
+嵌套类 qian'tao'lei
+network _network
+网络 wang'luo
+newline _newline
+换行 huan'hang
+新行 xin'hang
+non-deterministic choice _nondeterministicchoice
+非确定性选择 fei'que'ding'xing'xuan'ze
+non-strict _nonstrict
+非严格 fei'yan'ge
+non-strict evaluation _nonstrictevaluation
+非严格求值 fei'yan'ge'qiu'zhi
+nondeclarative _nondeclarative
+nondestructive version _nondestructiveversion
+非破坏性的版本 fei'po'huai'xing'de'ban'ben
+number crunching _numbercrunching
+数字密集运算 shu'zi'mi'ji'yun'suan
+object _object
+对象 dui'xiang
+object code _objectcode
+目标代码 mu'biao'dai'ma
+object-oriented _objectoriented
+面向对象 mian'xiang'dui'xiang
+object-oriented programming _objectorientedprogramming
+面向对象编程 mian'xiang'dui'xiang'bian'cheng
+Occam's razor _Occamsrazor
+奥卡姆剃刀原则 ao'ka'mu'ti'dao'yuan'ze
+on the fly _onthefly
+运行中 yun'xing'zhong
+执行时 zhi'xing'shi
+online _online
+在线 zai'xian
+open source _opensource
+开放源码 kai'fang'yuan'ma
+operand _operand
+操作对象 cao'zuo'dui'xiang
+operating system _operatingsystem
+OS _OS
+操作系统 cao'zuo'xi'tong
+operation _operation
+操作 cao'zuo
+operator _operator
+操作符 cao'zuo'fu
+optimization _optimization
+优化 you'hua
+optimization of tail calls _optimizationoftailcalls
+尾调用优化 wei'diao'yong'you'hua
+option _option
+选项 xuan'xiang
+optional _optional
+可选的 ke'xuan'de
+选择性的 xuan'ze'xing'de
+optional argument _optionalargument
+选择性参数 xuan'ze'xing'can'shu
+ordinary _ordinary
+常规的 chang'gui'de
+orthogonality _orthogonality
+正交性 zheng'jiao'xing
+overflow _overflow
+溢出 yi'chu
+overhead _overhead
+额外开销 e'wai'kai'xiao
+overload _overload
+重载 zhong'zai
+override _override
+覆写 fu'xie
+package _package
+包 bao
+pair _pair
+点对 dian'dui
+palindrome _palindrome
+回文 hui'wen
+paradigm _paradigm
+范式 fan'shi
+parallel _parallel
+并行 bing'xing
+parallel computer _parallelcomputer
+并行计算机 bing'xing'ji'suan'ji
+param _param
+参数 can'shu
+parameter _parameter
+参数 can'shu
+形式参数/形参 xing'shi'can'shu'xing'can
+paren-matching _parenmatching
+括号匹配 kuo'hao'pi'pei
+parent class _parentclass
+父类 fu'lei
+parentheses _parentheses
+括号 kuo'hao
+Parkinson's law _Parkinsonslaw
+帕金森法则 pa'jin'sen'fa'ze
+parse _parse
+解析 jie'xi
+parse tree _parsetree
+解析树 jie'xi'shu
+分析树 fen'xi'shu
+parser _parser
+解析器 jie'xi'qi
+partial application _partialapplication
+部分应用 bu'fen'ying'yong
+partial applied _partialapplied
+分步代入的 fen'bu'dai'ru'de
+partial function application _partialfunctionapplication
+部分函数应用 bu'fen'han'shu'ying'yong
+particular ordering _particularordering
+部分有序 bu'fen'you'xu
+pass by adress _passbyadress
+按址传递 an'zhi'chuan'di
+传址 chuan'zhi
+pass by reference _passbyreference
+按引用传递 an'yin'yong'chuan'di
+传引用 chuan'yin'yong
+pass by value _passbyvalue
+按值传递 an'zhi'chuan'di
+传值 chuan'zhi
+path _path
+路径 lu'jing
+pattern _pattern
+模式 mo'shi
+pattern match _patternmatch
+模式匹配 mo'shi'pi'pei
+perform _perform
+执行 zhi'xing
+performance _performance
+性能 xing'neng
+performance-critical _performancecritical
+persistence _persistence
+持久性 chi'jiu'xing
+phrenology _phrenology
+相面 xiang'mian
+physical _physical
+物理的 wu'li'de
+pipe _pipe
+管道 guan'dao
+pixel _pixel
+像素 xiang'su
+placeholder _placeholder
+占位符 zhan'wei'fu
+planning _planning
+计画 ji'hua
+platform _platform
+平台 ping'tai
+pointer _pointer
+指针 zhi'zhen
+pointer arithmetic _pointerarithmetic
+指针运算 zhi'zhen'yun'suan
+poll _poll
+轮询 lun'xun
+polymorphic _polymorphic
+多态 duo'tai
+polymorphism _polymorphism
+多态 duo'tai
+polynomial _polynomial
+多项式的 duo'xiang'shi'de
+pool _pool
+池 chi
+port _port
+端口 duan'kou
+portable _portable
+可移植性 ke'yi'zhi'xing
+portal _portal
+门户 men'hu
+positional parameters _positionalparameters
+位置参数 wei'zhi'can'shu
+postfix _postfix
+后序 hou'xu
+precedence _precedence
+优先级 you'xian'ji
+precedence list _precedencelist
+优先级列表 you'xian'ji'lie'biao
+preceding _preceding
+前述的 qian'shu'de
+predicate _predicate
+判断式 pan'duan'shi
+谓词 wei'ci
+preemptive multitasking _preemptivemultitasking
+抢占式多任务 qiang'zhan'shi'duo'ren'wu
+premature design _prematuredesign
+过早设计 guo'zao'she'ji
+preprocessor _preprocessor
+预处理器 yu'chu'li'qi
+prescribe _prescribe
+规定 gui'ding
+prime _prime
+素数 su'shu
+primitive _primitive
+原语 yuan'yu
+primitive recursive _primitiverecursive
+主递归 zhu'di'gui
+primitive type _primitivetype
+原生类型 yuan'sheng'lei'xing
+principal type _principaltype
+主要类型 zhu'yao'lei'xing
+print _print
+打印 da'yin
+printed representation _printedrepresentation
+打印表示法 da'yin'biao'shi'fa
+printer _printer
+打印机 da'yin'ji
+priority _priority
+优先级 you'xian'ji
+procedure _procedure
+过程 guo'cheng
+procedurual _procedurual
+过程化的 guo'cheng'hua'de
+procedurual knowledge _procedurualknowledge
+过程式知识 guo'cheng'shi'zhi'shi
+process _process
+进程 jin'cheng
+process priority _processpriority
+进程优先级 jin'cheng'you'xian'ji
+productivity _productivity
+生产力 sheng'chan'li
+profile _profile
+评测 ping'ce
+profiler _profiler
+评测器 ping'ce'qi
+性能分析器 xing'neng'fen'xi'qi
+programmer _programmer
+程序员 cheng'xu'yuan
+programming _programming
+编程 bian'cheng
+programming language _programminglanguage
+编程语言 bian'cheng'yu'yan
+project _project
+项目 xiang'mu
+prompt _prompt
+提示符 ti'shi'fu
+proper list _properlist
+正规列表 zheng'gui'lie'biao
+property _property
+属性 shu'xing
+property list _propertylist
+属性列表 shu'xing'lie'biao
+protocol _protocol
+协议 xie'yi
+prototype _prototype
+原型 yuan'xing
+pseudo code _pseudocode
+伪码 wei'ma
+pseudo instruction _pseudoinstruction
+伪指令 wei'zhi'ling
+purely functional language _purelyfunctionallanguage
+纯函数式语言 chun'han'shu'shi'yu'yan
+pushdown stack _pushdownstack
+下推栈 xia'tui'zhan
+qualified _qualified
+修饰的 xiu'shi'de
+带前缀的 dai'qian'zhui'de
+qualifier _qualifier
+修饰符 xiu'shi'fu
+quality _quality
+质量 zhi'liang
+quality assurance _qualityassurance
+QA _QA
+质量保证 zhi'liang'bao'zheng
+query _query
+查询 cha'xun
+query language _querylanguage
+查询语言 cha'xun'yu'yan
+queue _queue
+队列 dui'lie
+quote _quote
+引用 yin'yong
+quoted form _quotedform
+引用形式 yin'yong'xing'shi
+race condition _racecondition
+条件竞争 tiao'jian'jing'zheng
+竞态条件 jing'tai'tiao'jian
+radian _radian
+弧度 hu'du
+Redundant Array of Independent Disks _RedundantArrayofIndependentDisks
+RAID _RAID
+冗余独立磁盘阵列 rong'yu'du'li'ci'pan'zhen'lie
+raise _raise
+引起 yin'qi
+random number _randomnumber
+随机数 sui'ji'shu
+range _range
+范围 fan'wei
+区间 qu'jian
+rank _rank
+（矩阵）秩 ju'zhen'zhi
+排名 pai'ming
+rapid prototyping _rapidprototyping
+快速原型开发 kuai'su'yuan'xing'kai'fa
+rational database _rationaldatabase
+关系数据库 guan'xi'shu'ju'ku
+raw _raw
+未经处理的 wei'jing'chu'li'de
+read _read
+读取 du'qu
+read-evaluate-print loop _readevaluateprintloop
+REPL _REPL
+读取-求值-打印循环 du'qu'qiu'zhi'da'yin'xun'huan
+read-macro _readmacro
+读取宏 du'qu'hong
+record _record
+记录 ji'lu
+recursion _recursion
+递归 di'gui
+recursive _recursive
+递归的 di'gui'de
+recursive case _recursivecase
+递归情形 di'gui'qing'xing
+refactor _refactor
+重构 zhong'gou
+refer _refer
+参考 can'kao
+reference _reference
+引用 yin'yong
+参考 can'kao
+referential transparency _referentialtransparency
+引用透明 yin'yong'tou'ming
+refine _refine
+精化 jing'hua
+reflection _reflection
+反射 fan'she
+映像 ying'xiang
+register _register
+寄存器 ji'cun'qi
+registry creep _registrycreep
+注册表蠕变 zhu'ce'biao'ru'bian
+regular expression _regularexpression
+正则表达式 zheng'ze'biao'da'shi
+represent _represent
+表现 biao'xian
+request _request
+请求 qing'qiu
+resolution _resolution
+解析度 jie'xi'du
+resolve _resolve
+解析 jie'xi
+rest parameter _restparameter
+剩余参数 sheng'yu'can'shu
+return _return
+返回 fan'hui
+回车 hui'che
+return value _returnvalue
+返回值 fan'hui'zhi
+reuse of software _reuseofsoftware
+代码重用 dai'ma'zhong'yong
+right associative _rightassociative
+右结合 you'jie'he
+Reduced Instruction Set Computer _ReducedInstructionSetComputer
+RISC _RISC
+精简指令系统计算机 jing'jian'zhi'ling'xi'tong'ji'suan'ji
+robust _robust
+健壮 jian'zhuang
+robustness _robustness
+健壮性 jian'zhuang'xing
+鲁棒性 lu'bang'xing
+routine _routine
+例程 li'cheng
+routing _routing
+路由 lu'you
+row-major order _rowmajororder
+列主序 lie'zhu'xu
+remote procedure call _remoteprocedurecall
+RPC _RPC
+远程过程调用 yuan'cheng'guo'cheng'diao'yong
+run-length encoding _runlengthencoding
+游程编码 you'cheng'bian'ma
+run-time typing _runtimetyping
+运行期类型 yun'xing'qi'lei'xing
+runtime _runtime
+运行期 yun'xing'qi
+rvalue _rvalue
+右值 you'zhi
+S-expression _Sexpression
+S-表达式 _S'biao'da'shi
+save _save
+储存 chu'cun
+Secure Sockets Layer _SecureSocketsLayer
+SSL _SSL
+安全套接字层 an'quan'tao'jie'zi'ceng
+scaffold _scaffold
+脚手架 jiao'shou'jia
+鹰架 ying'jia
+scalar type _scalartype
+标量 biao'liang
+scan _scan
+扫描 sao'miao
+schedule _schedule
+调度 diao'du
+scheduler _scheduler
+调度程序 diao'du'cheng'xu
+scope _scope
+作用域 zuo'yong'yu
+SCREAMING_SNAKE_CASE _SCREAMINGSNAKECASE
+尖叫式蛇底大写 jian'jiao'shi'she'di'da'xie
+screen _screen
+屏幕 ping'mu
+scripting language _scriptinglanguage
+脚本语言 jiao'ben'yu'yan
+search _search
+查找 cha'zhao
+搜寻 sou'xun
+segment of instructions _segmentofinstructions
+指令片段 zhi'ling'pian'duan
+semantics _semantics
+语义 yu'yi
+semaphore _semaphore
+信号量 xin'hao'liang
+semicolon _semicolon
+分号 fen'hao
+sequence _sequence
+序列 xu'lie
+sequential _sequential
+循序的 xun'xu'de
+顺序的 shun'xu'de
+sequential collection literals _sequentialcollectionliterals
+serial _serial
+串行 chuan'hang
+serialization _serialization
+序列化 xu'lie'hua
+series _series
+串行 chuan'hang
+级数 ji'shu
+server _server
+服务器 fu'wu'qi
+shadowing _shadowing
+隐蔽了 yin'bi'le
+sharp _sharp
+犀利的 xi'li'de
+sharp-quote _sharpquote
+升引号 sheng'yin'hao
+shortest path _shortestpath
+最短路径 zui'duan'lu'jing
+SICP _SICP
+《计算机程序的构造与解释》 ji'suan'ji'cheng'xu'de'gou'zao'yu'jie'shi
+side effect _sideeffect
+副作用 fu'zuo'yong
+signature _signature
+签名 qian'ming
+simple vector _simplevector
+简单向量 jian'dan'xiang'liang
+simulate _simulate
+模拟 mo'ni
+Single Point of Truth _SinglePointofTruth
+SPOT _SPOT
+真理的单点性 zhen'li'de'dan'dian'xing
+single-segment _singlesegment
+单段的 dan'duan'de
+sketch _sketch
+草图 cao'tu
+初步框架 chu'bu'kuang'jia
+slash _slash
+斜线 xie'xian
+slot _slot
+槽 cao
+smart pointer _smartpointer
+智能指针 zhi'neng'zhi'zhen
+snake_case _snakecase
+蛇底式小写 she'di'shi'xiao'xie
+snapshot _snapshot
+屏幕截图 ping'mu'jie'tu
+socket _socket
+套接字 tao'jie'zi
+software _software
+软件 ruan'jian
+solution _solution
+方案 fang'an
+source code _sourcecode
+源代码 yuan'dai'ma
+space leak _spaceleak
+内存泄漏 nei'cun'xie'lou
+spaghetti _spaghetti
+面条式代码 mian'tiao'shi'dai'ma
+意面式代码 yi'mian'shi'dai'ma
+spaghetti stack _spaghettistack
+意面式栈 yi'mian'shi'zhan
+面条式栈 mian'tiao'shi'zhan
+spam _spam
+垃圾邮件 la'ji'you'jian
+spec _spec
+规格 gui'ge
+special form _specialform
+特殊形式 te'shu'xing'shi
+special variable _specialvariable
+特殊变量 te'shu'bian'liang
+specialization _specialization
+特化 te'hua
+specialize _specialize
+特化 te'hua
+specialized array _specializedarray
+特化数组 te'hua'shu'zu
+specification _specification
+规格说明 gui'ge'shuo'ming
+规范 gui'fan
+splitter _splitter
+切分窗口 qie'fen'chuang'kou
+sprite _sprite
+精灵图 jing'ling'tu
+square _square
+平方 ping'fang
+square root _squareroot
+平方根 ping'fang'gen
+squash _squash
+碰撞 peng'zhuang
+stack _stack
+栈 zhan
+stack frame _stackframe
+栈帧 zhan'zhen
+stakeholder _stakeholder
+standard library _standardlibrary
+标准函式库 biao'zhun'han'shi'ku
+state machine _statemachine
+状态机 zhuang'tai'ji
+statement _statement
+陈述 chen'shu
+语句 yu'ju
+static type _statictype
+静态类型 jing'tai'lei'xing
+static type system _statictypesystem
+静态类型系统 jing'tai'lei'xing'xi'tong
+status _status
+状态 zhuang'tai
+store _store
+保存 bao'cun
+stream _stream
+流 liu
+strict _strict
+严格 yan'ge
+strict evaluation _strictevaluation
+严格求值 yan'ge'qiu'zhi
+string _string
+字串 zi'chuan
+字符串 zi'fu'chuan
+string template _stringtemplate
+字串模版 zi'chuan'mo'ban
+strong type _strongtype
+强类型 qiang'lei'xing
+structural recursion _structuralrecursion
+结构递归 jie'gou'di'gui
+structured values _structuredvalues
+结构型值 jie'gou'xing'zhi
+subroutine _subroutine
+子程序 zi'cheng'xu
+subset _subset
+子集 zi'ji
+substitution _substitution
+代换 dai'huan
+substitution model _substitutionmodel
+代换模型 dai'huan'mo'xing
+subtype _subtype
+子类型 zi'lei'xing
+superclass _superclass
+基类 ji'lei
+superfluous _superfluous
+多余的 duo'yu'de
+supertype _supertype
+超集 chao'ji
+support _support
+支持 zhi'chi
+suspend _suspend
+挂起 gua'qi
+swapping values _swappingvalues
+交换变量的值 jiao'huan'bian'liang'de'zhi
+symbol _symbol
+符号 fu'hao
+symbolic computation _symboliccomputation
+符号计算 fu'hao'ji'suan
+syntax _syntax
+语法 yu'fa
+system administrator _systemadministrator
+系统管理员 xi'tong'guan'li'yuan
+system administrator disease _systemadministratordisease
+系统管理员综合症 xi'tong'guan'li'yuan'zong'he'zheng
+System Network Architecture _SystemNetworkArchitecture
+SNA _SNA
+系统网络体系 xi'tong'wang'luo'ti'xi
+(database)table _databasetable
+数据表 shu'ju'biao
+table _table
+表格 biao'ge
+tag _tag
+标签 biao'qian
+标记 biao'ji
+tail-recursion _tailrecursion
+尾递归 wei'di'gui
+tail-recursive _tailrecursive
+尾递归的 wei'di'gui'de
+TAOCP _TAOCP
+《计算机程序设计艺术》 ji'suan'ji'cheng'xu'she'ji'yi'shu
+target _target
+目标 mu'biao
+taxable operators _taxableoperators
+需节制使用的操作符 xu'jie'zhi'shi'yong'de'cao'zuo'fu
+taxonomy _taxonomy
+分类法 fen'lei'fa
+template _template
+模版 mo'ban
+temporary object _temporaryobject
+临时对象 lin'shi'dui'xiang
+testing _testing
+测试 ce'shi
+text _text
+文本 wen'ben
+text file _textfile
+文本文件 wen'ben'wen'jian
+thread _thread
+线程 xian'cheng
+thread safe _threadsafe
+线程安全 xian'cheng'an'quan
+three-valued logic _threevaluedlogic
+三值逻辑 san'zhi'luo'ji
+throw _throw
+抛出 pao'chu
+丢掷 diu'zhi
+引发 yin'fa
+throwaway program _throwawayprogram
+一次性程序 yi'ci'xing'cheng'xu
+timestamp _timestamp
+时间戳 shi'jian'chuo
+token _token
+词法记号 ci'fa'ji'hao
+语义单位 yu'yi'dan'wei
+语元 yu'yuan
+top-down design _topdowndesign
+自顶向下的设计 zi'ding'xiang'xia'de'she'ji
+top-level _toplevel
+顶层 ding'ceng
+trace _trace
+追踪 zhui'zong
+trailing space _trailingspace
+行尾空白 hang'wei'kong'bai
+transaction _transaction
+事务 shi'wu
+transition network _transitionnetwork
+转移网络 zhuan'yi'wang'luo
+transparent _transparent
+透明的 tou'ming'de
+traverse _traverse
+遍历 bian'li
+tree _tree
+树 shu
+tree recursion _treerecursion
+树形递归 shu'xing'di'gui
+trigger _trigger
+触发器 chu'fa'qi
+tuple _tuple
+元组 yuan'zu
+Turing machine _Turingmachine
+图灵机 tu'ling'ji
+Turing complete _Turingcomplete
+图灵完备 tu'ling'wan'bei
+typable _typable
+类型合法 lei'xing'he'fa
+type _type
+类型 lei'xing
+type constructor _typeconstructor
+类构造器 lei'gou'zao'qi
+type declaration _typedeclaration
+类型声明 lei'xing'sheng'ming
+type hierarchy _typehierarchy
+类型层级 lei'xing'ceng'ji
+type inference _typeinference
+类型推导 lei'xing'tui'dao
+type name _typename
+类型名 lei'xing'ming
+type safe _typesafe
+类型安全 lei'xing'an'quan
+type signature _typesignature
+类型签名 lei'xing'qian'ming
+type synonym _typesynonym
+类型别名 lei'xing'bie'ming
+type variable _typevariable
+类型变量 lei'xing'bian'liang
+typing _typing
+类型指派 lei'xing'zhi'pai
+输入 shu'ru
+user interface _userinterface
+UI _UI
+用户界面 yong'hu'jie'mian
+unary _unary
+一元的 yi'yuan'de
+underflow _underflow
+下溢 xia'yi
+unification _unification
+合一 he'yi
+统一 tong'yi
+union _union
+并集 bing'ji
+universally quantify _universallyquantify
+全局量化 quan'ju'liang'hua
+unqualfied _unqualfied
+未修饰的 wei'xiu'shi'de
+unwinding _unwinding
+uptime _uptime
+运行时间 yun'xing'shi'jian
+Uniform Resource Locator _UniformResourceLocator
+URL _URL
+统一资源定位符 tong'yi'zi'yuan'ding'wei'fu
+user _user
+用户 yong'hu
+utilities _utilities
+实用函数 shi'yong'han'shu
+validate _validate
+验证 yan'zheng
+validator _validator
+验证器 yan'zheng'qi
+value constructor _valueconstructor
+值构造器 zhi'gou'zao'qi
+vaporware _vaporware
+朦胧件 meng'long'jian
+variable _variable
+变量 bian'liang
+variable capture _variablecapture
+变量捕捉 bian'liang'bu'zhuo
+variadic input _variadicinput
+可变输入 ke'bian'shu'ru
+variant _variant
+变种 bian'zhong
+venture capitalist _venturecapitalist
+VC _VC
+风险投资商 feng'xian'tou'zi'shang
+vector _vector
+向量 xiang'liang
+viable function _viablefunction
+可行函数 ke'xing'han'shu
+video _video
+视频 shi'pin
+view _view
+视图 shi'tu
+virtual function _virtualfunction
+虚函数 xu'han'shu
+virtual machine _virtualmachine
+虚拟机 xu'ni'ji
+virtual memory _virtualmemory
+虚内存 xu'nei'cun
+volatile _volatile
+挥发 hui'fa
+vowel _vowel
+元音 yuan'yin
+warning message _warningmessage
+警告信息 jing'gao'xin'xi
+web server _webserver
+网络服务器 wang'luo'fu'wu'qi
+weight _weight
+权值 quan'zhi
+权重 quan'zhong
+well type _welltype
+类型正确 lei'xing'zheng'que
+wildcard _wildcard
+通配符 tong'pei'fu
+window _window
+窗口 chuang'kou
+word _word
+单词 dan'ci
+字 zi
+wrapper _wrapper
+包装器 bao'zhuang'qi
+包装 bao'zhuang
+What You See Is What You Get _WhatYouSeeIsWhatYouGet
+WYSIWYG _WYSIWYG
+所见即所得 suo'jian'ji'suo'de
+What You See Is What You Want _WhatYouSeeIsWhatYouWant
+WYSIWYW _WYSIWYW
+所见即所想 suo'jian'ji'suo'xiang
+Y combinator _Ycombinator
+Y组合子 _Y'zu'he'zi
+Z-expression _Zexpression
+Z-表达式 _Z'biao'da'shi
+zero-indexed _zeroindexed
+零索引的 ling'suo'yin'de
+The Paradox of Choice _TheParadoxofChoice

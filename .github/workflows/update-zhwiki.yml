@@ -1,0 +1,160 @@
+name: Update Zhwiki Dictionary
+
+on:
+  # 每周日凌晨3点自动检查更新
+  schedule:
+    - cron: "0 3 * * 0"
+
+  # 允许手动触发
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: "强制更新（即使版本相同）"
+        required: false
+        default: "false"
+        type: boolean
+
+  # 监听上游仓库的发布事件（需要webhook配置）
+  repository_dispatch:
+    types: [zhwiki-release]
+
+jobs:
+  update-dictionary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: 安装依赖包
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: 配置Git用户信息
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: 运行更新脚本
+        id: update
+        run: |
+          cd ${{ github.workspace }}
+
+          # 运行更新脚本
+          if [ "${{ github.event.inputs.force_update }}" = "true" ]; then
+            python script/update_zhwiki.py --force
+          else
+            python script/update_zhwiki.py
+          fi
+
+          # 检查是否有文件变更
+          if git diff --quiet dict/zhwiki-*.dict; then
+            echo "updated=false" >> $GITHUB_OUTPUT
+            echo "没有检测到文件变更"
+          else
+            echo "updated=true" >> $GITHUB_OUTPUT
+            echo "检测到文件已更新"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 提交并推送更改
+        if: steps.update.outputs.updated == 'true'
+        run: |
+          git add .
+
+          # 从status.json获取版本和词库信息
+          if [ -f "logs/zhwiki_status.json" ]; then
+            VERSION=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('version', 'unknown'))")
+            DICT_NAME=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('latest_dict_name', 'unknown'))")
+            DICT_DATE=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('latest_dict_date', 'unknown'))")
+            
+            git commit -m "自动更新 zhwiki 词库到版本 $VERSION
+            
+            - 版本: $VERSION
+            - 词库文件: $DICT_NAME
+            - 词库日期: $DICT_DATE
+            - 自动从 https://github.com/felixonmars/fcitx5-pinyin-zhwiki 更新
+            - 更新时间: $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          else
+            git commit -m "自动更新 zhwiki 词库
+            
+            - 自动从 https://github.com/felixonmars/fcitx5-pinyin-zhwiki 更新
+            - 更新时间: $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          fi
+
+          git push
+
+      - name: 输出更新细节到GitHub Actions摘要
+        if: steps.update.outputs.updated == 'true'
+        run: |
+          if [ -f "logs/zhwiki_status.json" ]; then
+            VERSION=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('version', 'unknown'))")
+            DICT_NAME=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('latest_dict_name', 'unknown'))")
+            DICT_DATE=$(python -c "import json; data=json.load(open('logs/zhwiki_status.json')); print(data.get('latest_dict_date', 'unknown'))")
+            
+            echo "## 📝 更新日志" >> update_summary.md
+            echo "" >> update_summary.md
+            echo "zhwiki 词库已更新到版本 **$VERSION**" >> update_summary.md
+            echo "" >> update_summary.md
+            echo "### 📊 文件信息" >> update_summary.md
+            
+            if [ -f "dict/$DICT_NAME" ]; then
+              SIZE=$(stat -c%s "dict/$DICT_NAME")
+              LINES=$(wc -l < "dict/$DICT_NAME")
+              echo "- 文件名: $DICT_NAME" >> update_summary.md
+              echo "- 文件大小: $(numfmt --to=iec-i --suffix=B $SIZE)" >> update_summary.md
+              echo "- 总行数: $LINES" >> update_summary.md
+              
+              # 尝试提取词条数量（从dict文件头部）
+              TOTAL_ENTRIES=$(grep ";;TOTAL=" "dict/$DICT_NAME" | head -1 | cut -d'=' -f2 2>/dev/null || echo "未知")
+              echo "- 词条数量: $TOTAL_ENTRIES" >> update_summary.md
+            fi
+            
+            echo "" >> update_summary.md
+            echo "### 🔗 源文件" >> update_summary.md
+            echo "- 来源: [fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki)" >> update_summary.md
+            echo "- 版本: $VERSION" >> update_summary.md
+            echo "- 词库文件: $DICT_NAME" >> update_summary.md
+            echo "- 词库日期: $DICT_DATE" >> update_summary.md
+            echo "- 更新时间: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> update_summary.md
+            
+            # 输出到GitHub Actions摘要
+            cat update_summary.md >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 上传更新日志作为构建产物
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zhwiki-update-logs
+          path: |
+            logs/zhwiki_update.log
+            logs/zhwiki_status.json
+          retention-days: 30
+
+      - name: 失败通知
+        if: failure()
+        run: |
+          echo "## ❌ 更新失败" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "zhwiki 词库更新过程中发生错误" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "请检查日志文件获取详细信息。" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "logs/zhwiki_update.log" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### 📝 错误日志" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            tail -n 50 logs/zhwiki_update.log >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi

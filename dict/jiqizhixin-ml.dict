@@ -1,0 +1,1512 @@
+Absolute value rectification _Absolutevaluerectification
+绝对值整流 jue'dui'zhi'zheng'liu
+Activation Function _ActivationFunction
+激活函数 ji'huo'han'shu
+Accumulated error backpropagation _Accumulatederrorbackpropagation
+累积误差反向传播 lei'ji'wu'cha'fan'xiang'chuan'bo
+Acoustic modeling _Acousticmodeling
+声学建模 sheng'xue'jian'mo
+Acquisition funtion _Acquisitionfuntion
+采集函数 cai'ji'han'shu
+Actor-critic method _Actorcriticmethod
+行为-评判方法 xing'wei'ping'pan'fang'fa
+Adaptive bitrate (ABR) algorithm _AdaptivebitrateABRalgorithm
+自适应比特率算法 zi'shi'ying'bi'te'lv'suan'fa
+Adaptive Resonance Theory/ART _AdaptiveResonanceTheoryART
+自适应谐振理论 zi'shi'ying'xie'zhen'li'lun
+Addictive model _Addictivemodel
+加性模型 jia'xing'mo'xing
+Adversarial example _Adversarialexample
+对抗样本 dui'kang'yang'ben
+Adversarial Networks _AdversarialNetworks
+对抗网络 dui'kang'wang'luo
+Affine Layer _AffineLayer
+仿射层 fang'she'ceng
+Affinity matrix _Affinitymatrix
+亲和矩阵 qin'he'ju'zhen
+Agent _Agent
+智能体 zhi'neng'ti
+Algorithm _Algorithm
+算法 suan'fa
+Alpha-beta pruning _Alphabetapruning
+Alternative splicing dataset _Alternativesplicingdataset
+选择性剪接数据集 xuan'ze'xing'jian'jie'shu'ju'ji
+Analytic gradient _Analyticgradient
+解析梯度 jie'xi'ti'du
+Ancestral Sampling _AncestralSampling
+原始采样 yuan'shi'cai'yang
+Annealed importance sampling _Annealedimportancesampling
+退火重要采样 tui'huo'zhong'yao'cai'yang
+Anomaly detection _Anomalydetection
+异常检测 yi'chang'jian'ce
+专用集成电路 zhuan'yong'ji'cheng'dian'lu
+Approximate Bayesian computation _ApproximateBayesiancomputation
+近似贝叶斯计算 jin'shi'bei'ye'si'ji'suan
+Approximate inference _Approximateinference
+近似推断 jin'shi'tui'duan
+Approximation _Approximation
+近似 jin'shi
+Architecture _Architecture
+架构 jia'gou
+Area Under ROC Curve/AUC _AreaUnderROCCurveAUC
+Roc 曲线下面积 _Roc'qu'xian'xia'mian'ji
+Artificial General Intelligence/AGI _ArtificialGeneralIntelligenceAGI
+通用人工智能 tong'yong'ren'gong'zhi'neng
+Artificial Intelligence/AI _ArtificialIntelligenceAI
+人工智能 ren'gong'zhi'neng
+Association analysis _Associationanalysis
+关联分析 guan'lian'fen'xi
+Asymptotically unbiased _Asymptoticallyunbiased
+渐近无偏 jian'jin'wu'pian
+Asynchoronous Stochastic Gradient Descent _AsynchoronousStochasticGradientDescent
+异步随机梯度下降 yi'bu'sui'ji'ti'du'xia'jiang
+Attention mechanism _Attentionmechanism
+注意力机制 zhu'yi'li'ji'zhi
+Attribute conditional independence assumption _Attributeconditionalindependenceassumption
+属性条件独立性假设 shu'xing'tiao'jian'du'li'xing'jia'she
+Attribute space _Attributespace
+属性空间 shu'xing'kong'jian
+Attribute value _Attributevalue
+属性值 shu'xing'zhi
+Augmented Lagrangian _AugmentedLagrangian
+增广拉格朗日法 zeng'guang'la'ge'lang'ri'fa
+Autoencoder _Autoencoder
+自编码器 zi'bian'ma'qi
+自动微分 zi'dong'wei'fen
+Automatic speech recognition/ASR _AutomaticspeechrecognitionASR
+自动语音识别 zi'dong'yu'yin'shi'bie
+Automatic summarization _Automaticsummarization
+自动摘要 zi'dong'zhai'yao
+Auto-regressive network _Autoregressivenetwork
+自回归网络 zi'hui'gui'wang'luo
+Average gradient _Averagegradient
+平均梯度 ping'jun'ti'du
+Average-Pooling _AveragePooling
+平均池化 ping'jun'chi'hua
+Backpropagation/BP _BackpropagationBP
+反向传播 fan'xiang'chuan'bo
+Backpropagation Through Time _BackpropagationThroughTime
+通过时间的反向传播 tong'guo'shi'jian'de'fan'xiang'chuan'bo
+Backward induction _Backwardinduction
+逆向归纳 ni'xiang'gui'na
+Bag of words/BoW _BagofwordsBoW
+词袋 ci'dai
+Base learner _Baselearner
+基学习器 ji'xue'xi'qi
+Base learning algorithm _Baselearningalgorithm
+基学习算法 ji'xue'xi'suan'fa
+Batch _Batch
+批次 pi'ci
+Batch Normalization/BN _BatchNormalizationBN
+批次归一化 pi'ci'gui'yi'hua
+Bayes decision rule _Bayesdecisionrule
+贝叶斯判定准则 bei'ye'si'pan'ding'zhun'ze
+Bayes error _Bayeserror
+贝叶斯误差 bei'ye'si'wu'cha
+Bayes Model Averaging/BMA _BayesModelAveragingBMA
+贝叶斯模型平均 bei'ye'si'mo'xing'ping'jun
+Bayes optimal classifier _Bayesoptimalclassifier
+贝叶斯最优分类器 bei'ye'si'zui'you'fen'lei'qi
+Bayesian decision theory _Bayesiandecisiontheory
+贝叶斯决策论 bei'ye'si'jue'ce'lun
+Bayesian network _Bayesiannetwork
+贝叶斯网络 bei'ye'si'wang'luo
+Bayesian optimization _Bayesianoptimization
+贝叶斯优化 bei'ye'si'you'hua
+Beam search _Beamsearch
+束搜索 shu'sou'suo
+Bechmark _Bechmark
+基准 ji'zhun
+Belief network _Beliefnetwork
+信念网络 xin'nian'wang'luo
+Bellman equation _Bellmanequation
+贝尔曼方程 bei'er'man'fang'cheng
+Between-class scatter matrix _Betweenclassscattermatrix
+类间散度矩阵 lei'jian'san'du'ju'zhen
+Bias _Bias
+偏置 / 偏差 pian'zhi'pian'cha
+Biased _Biased
+有偏 you'pian
+Biased importance sampling _Biasedimportancesampling
+有偏重要采样 you'pian'zhong'yao'cai'yang
+Bias-variance decomposition _Biasvariancedecomposition
+偏差-方差分解 pian'cha'fang'cha'fen'jie
+Bias-Variance Dilemma _BiasVarianceDilemma
+偏差 - 方差困境 pian'cha'fang'cha'kun'jing
+Bi-directional Long-Short Term Memory/Bi-LSTM _BidirectionalLongShortTermMemoryBiLSTM
+双向长短期记忆 shuang'xiang'chang'duan'qi'ji'yi
+Binary classification _Binaryclassification
+二元分类 er'yuan'fen'lei
+Binary relation _Binaryrelation
+二元关系 er'yuan'guan'xi
+Binary sparse coding _Binarysparsecoding
+二值稀疏编码 er'zhi'xi'shu'bian'ma
+Binomial distribution _Binomialdistribution
+二项分布 er'xiang'fen'bu
+Binomial test _Binomialtest
+二项检验 er'xiang'jian'yan
+Bi-partition _Bipartition
+二分法 er'fen'fa
+Block coordinate descent _Blockcoordinatedescent
+块坐标下降 kuai'zuo'biao'xia'jiang
+Block Gibbs Sampling _BlockGibbsSampling
+块吉布斯采样 kuai'ji'bu'si'cai'yang
+Boilerplate code _Boilerplatecode
+样板代码 yang'ban'dai'ma
+Boltzmann distribution _Boltzmanndistribution
+玻尔兹曼分布 bo'er'zi'man'fen'bu
+Boltzmann machine _Boltzmannmachine
+玻尔兹曼机 bo'er'zi'man'ji
+Bootstrap sampling _Bootstrapsampling
+自助采样法／可重复采样／有放回采样 zi'zhu'cai'yang'fa'ke'chong'fu'cai'yang'you'fang'hui'cai'yang
+Bootstrapping _Bootstrapping
+自助法 zi'zhu'fa
+Bottleneck layer _Bottlenecklayer
+瓶颈层 ping'jing'ceng
+Bounding Boxes _BoundingBoxes
+边界框 bian'jie'kuang
+Break-Event Point/BEP _BreakEventPointBEP
+平衡点 ping'heng'dian
+Bridge sampling _Bridgesampling
+桥式采样 qiao'shi'cai'yang
+Broadcasting _Broadcasting
+广播 guang'bo
+Burning-in _Burningin
+磨合 mo'he
+Calculus of variations _Calculusofvariations
+变分法 bian'fen'fa
+Calibration _Calibration
+校准 xiao'zhun
+Canonical _Canonical
+正则的 zheng'ze'de
+Cascade/Coalesced _CascadeCoalesced
+级联 ji'lian
+Cascade-Correlation _CascadeCorrelation
+级联相关 ji'lian'xiang'guan
+Categorical attribute _Categoricalattribute
+分类属性 fen'lei'shu'xing
+Categorical distribution _Categoricaldistribution
+范畴分布、分类分布 fan'chou'fen'bu'fen'lei'fen'bu
+Causal factor _Causalfactor
+因果因子 yin'guo'yin'zi
+Causal modeling _Causalmodeling
+因果模型 yin'guo'mo'xing
+Centered difference _Centereddifference
+中心差分 zhong'xin'cha'fen
+Central limit theorem _Centrallimittheorem
+中心极限定理 zhong'xin'ji'xian'ding'li
+Chain rule _Chainrule
+链式法则 lian'shi'fa'ze
+Chordal graph _Chordalgraph
+弦图 xian'tu
+Class-conditional probability _Classconditionalprobability
+类条件概率 lei'tiao'jian'gai'lv
+Classification and regression tree/CART _ClassificationandregressiontreeCART
+分类与回归树 fen'lei'yu'hui'gui'shu
+Classifier _Classifier
+分类器 fen'lei'qi
+Class-imbalance _Classimbalance
+分类不平衡 fen'lei'bu'ping'heng
+Clip gradient _Clipgradient
+梯度截断 ti'du'jie'duan
+Clique potential _Cliquepotential
+团势能 tuan'shi'neng
+Closed-form _Closedform
+闭式 bi'shi
+Cluster _Cluster
+簇/类/集群 cu'lei'ji'qun
+Cluster analysis _Clusteranalysis
+聚类分析 ju'lei'fen'xi
+Clustering _Clustering
+聚类 ju'lei
+Clustering ensemble _Clusteringensemble
+聚类集成 ju'lei'ji'cheng
+Co-adapting _Coadapting
+共适应 gong'shi'ying
+Coding matrix _Codingmatrix
+编码矩阵 bian'ma'ju'zhen
+Collaborative filtering _Collaborativefiltering
+协同过滤 xie'tong'guo'lv
+COLT _COLT
+国际学习理论会议 guo'ji'xue'xi'li'lun'hui'yi
+Committee-based learning _Committeebasedlearning
+基于委员会的学习 ji'yu'wei'yuan'hui'de'xue'xi
+Competitive learning _Competitivelearning
+竞争型学习 jing'zheng'xing'xue'xi
+Complete graph _Completegraph
+完全图 wan'quan'tu
+Component learner _Componentlearner
+组件学习器 zu'jian'xue'xi'qi
+Comprehensibility _Comprehensibility
+可解释性 ke'jie'shi'xing
+Computation Cost _ComputationCost
+计算成本 ji'suan'cheng'ben
+Computational Linguistics _ComputationalLinguistics
+计算语言学 ji'suan'yu'yan'xue
+Computer vision _Computervision
+计算机视觉 ji'suan'ji'shi'jue
+Concept drift _Conceptdrift
+概念漂移 gai'nian'piao'yi
+Concept Learning System/CLS _ConceptLearningSystemCLS
+概念学习系统 gai'nian'xue'xi'xi'tong
+Conditional entropy _Conditionalentropy
+条件熵 tiao'jian'shang
+Conditional mutual information _Conditionalmutualinformation
+条件互信息 tiao'jian'hu'xin'xi
+Conditional Probability Table/CPT _ConditionalProbabilityTableCPT
+条件概率表 tiao'jian'gai'lv'biao
+Conditional random field/CRF _ConditionalrandomfieldCRF
+条件随机场 tiao'jian'sui'ji'chang
+Conditional risk _Conditionalrisk
+条件风险 tiao'jian'feng'xian
+Confidence _Confidence
+置信度 zhi'xin'du
+Confusion matrix _Confusionmatrix
+混淆矩阵 hun'xiao'ju'zhen
+Conjugate directions _Conjugatedirections
+共轭方向 gong'e'fang'xiang
+Conjugate distribution _Conjugatedistribution
+共轭分布 gong'e'fen'bu
+Conjugate gradient _Conjugategradient
+共轭梯度 gong'e'ti'du
+Connection weight _Connectionweight
+连接权 lian'jie'quan
+Connectionism _Connectionism
+连结主义 lian'jie'zhu'yi
+Consistency _Consistency
+一致性／相合性 yi'zhi'xing'xiang'he'xing
+Consistency convergence _Consistencyconvergence
+一致性收敛 yi'zhi'xing'shou'lian
+Contingency table _Contingencytable
+列联表 lie'lian'biao
+Continuation method _Continuationmethod
+延拓法 yan'tuo'fa
+Continuous attribute _Continuousattribute
+连续属性 lian'xu'shu'xing
+Contractive autoencoder _Contractiveautoencoder
+收缩自编码器 shou'suo'zi'bian'ma'qi
+Contractive neural network _Contractiveneuralnetwork
+收缩神经网络 shou'suo'shen'jing'wang'luo
+Convex optimization _Convexoptimization
+凸优化 tu'you'hua
+Convergence _Convergence
+收敛 shou'lian
+Conversational agent _Conversationalagent
+会话智能体 hui'hua'zhi'neng'ti
+Convex quadratic programming _Convexquadraticprogramming
+凸二次规划 tu'er'ci'gui'hua
+Convexity _Convexity
+凸性 tu'xing
+Convolutional Boltzmann Machine _ConvolutionalBoltzmannMachine
+卷积玻尔兹曼机 juan'ji'bo'er'zi'man'ji
+Convolutional neural network/CNN _ConvolutionalneuralnetworkCNN
+卷积神经网络 juan'ji'shen'jing'wang'luo
+Co-occurrence _Cooccurrence
+同现 tong'xian
+Coordinate descent _Coordinatedescent
+坐标下降 zuo'biao'xia'jiang
+Correlation coefficient _Correlationcoefficient
+相关系数 xiang'guan'xi'shu
+Cosine similarity _Cosinesimilarity
+余弦相似度 yu'xian'xiang'shi'du
+Cost curve _Costcurve
+成本曲线 cheng'ben'qu'xian
+Cost Function _CostFunction
+成本函数 cheng'ben'han'shu
+Cost matrix _Costmatrix
+成本矩阵 cheng'ben'ju'zhen
+Cost-sensitive _Costsensitive
+成本敏感 cheng'ben'min'gan
+Covariance _Covariance
+协方差 xie'fang'cha
+Covariance matrix _Covariancematrix
+协方差矩阵 xie'fang'cha'ju'zhen
+Cross entropy _Crossentropy
+交叉熵 jiao'cha'shang
+Cross validation _Crossvalidation
+交叉验证 jiao'cha'yan'zheng
+Cross-correlation _Crosscorrelation
+互相关函数 hu'xiang'guan'han'shu
+Crowdsourcing _Crowdsourcing
+众包 zhong'bao
+Cumulative function _Cumulativefunction
+累积函数 lei'ji'han'shu
+Curse of dimensionality _Curseofdimensionality
+维度灾难 wei'du'zai'nan
+Curve-fitting _Curvefitting
+曲线拟合 qu'xian'ni'he
+Cut point _Cutpoint
+截断点 jie'duan'dian
+Cutting plane algorithm _Cuttingplanealgorithm
+割平面法 ge'ping'mian'fa
+Data generating distribution _Datageneratingdistribution
+数据生成分布 shu'ju'sheng'cheng'fen'bu
+Data mining _Datamining
+数据挖掘 shu'ju'wa'jue
+Data parallelism _Dataparallelism
+数据并行 shu'ju'bing'xing
+Data set _Dataset
+数据集 shu'ju'ji
+Data Wrangling _DataWrangling
+数据整理 shu'ju'zheng'li
+Dataset augmentation _Datasetaugmentation
+数据集增强 shu'ju'ji'zeng'qiang
+Debugging strategy _Debuggingstrategy
+调试策略 tiao'shi'ce'lue
+Decision Boundary _DecisionBoundary
+决策边界 jue'ce'bian'jie
+Decision stump _Decisionstump
+决策树桩 jue'ce'shu'zhuang
+Decision tree _Decisiontree
+决策树／判定树 jue'ce'shu'pan'ding'shu
+Deconvolutional Network _DeconvolutionalNetwork
+解卷积网络 jie'juan'ji'wang'luo
+Deduction _Deduction
+演绎 yan'yi
+Deep Belief Network _DeepBeliefNetwork
+深度信念网络 shen'du'xin'nian'wang'luo
+Deep Boltzmann Machine _DeepBoltzmannMachine
+深度玻尔兹曼机 shen'du'bo'er'zi'man'ji
+Deep circuit _Deepcircuit
+深度回路 shen'du'hui'lu
+Deep Convolutional Generative Adversarial Network/DCGAN _DeepConvolutionalGenerativeAdversarialNetworkDCGAN
+深度卷积生成对抗网络 shen'du'juan'ji'sheng'cheng'dui'kang'wang'luo
+Deep generative model _Deepgenerativemodel
+深度生成模型 shen'du'sheng'cheng'mo'xing
+Deep learning _Deeplearning
+深度学习 shen'du'xue'xi
+Deep neural network/DNN _DeepneuralnetworkDNN
+深度神经网络 shen'du'shen'jing'wang'luo
+Deep Q-Learning _DeepQLearning
+深度 Q 学习 shen'du'_Q'xue'xi
+Deep Q-Network _DeepQNetwork
+深度 Q 网络 shen'du'_Q'wang'luo
+Denoising autoencoder _Denoisingautoencoder
+去噪自编码器 qu'zao'zi'bian'ma'qi
+Denoising score matching _Denoisingscorematching
+去噪得分匹配 qu'zao'de'fen'pi'pei
+Density estimation _Densityestimation
+密度估计 mi'du'gu'ji
+Density-based clustering _Densitybasedclustering
+密度聚类 mi'du'ju'lei
+Detailed balance _Detailedbalance
+细致平衡 xi'zhi'ping'heng
+Determinant _Determinant
+行列式 hang'lie'shi
+Deterministic _Deterministic
+确定性 que'ding'xing
+Diagonal matrix _Diagonalmatrix
+对角矩阵 dui'jiao'ju'zhen
+Differentiable neural computer _Differentiableneuralcomputer
+可微分神经计算机 ke'wei'fen'shen'jing'ji'suan'ji
+微分熵 wei'fen'shang
+微分方程 wei'fen'fang'cheng
+Dimensionality reduction algorithm _Dimensionalityreductionalgorithm
+降维算法 jiang'wei'suan'fa
+Directed edge _Directededge
+有向边 you'xiang'bian
+Directed graphical model _Directedgraphicalmodel
+有向图模型 you'xiang'tu'mo'xing
+Directional derivative _Directionalderivative
+方向导数 fang'xiang'dao'shu
+Dirichlet distribution _Dirichletdistribution
+狄利克雷分布 di'li'ke'lei'fen'bu
+Disagreement measure _Disagreementmeasure
+不合度量 bu'he'du'liang
+Discriminative model _Discriminativemodel
+判别模型 pan'bie'mo'xing
+Discriminator _Discriminator
+判别器 pan'bie'qi
+Discriminator network _Discriminatornetwork
+判别器网络 pan'bie'qi'wang'luo
+Distance measure _Distancemeasure
+距离度量 ju'li'du'liang
+Distance metric learning _Distancemetriclearning
+距离度量学习 ju'li'du'liang'xue'xi
+Distribution _Distribution
+分布 fen'bu
+Divergence _Divergence
+散度 san'du
+Diversity measure _Diversitymeasure
+多样性度量／差异性度量 duo'yang'xing'du'liang'cha'yi'xing'du'liang
+Domain adaption _Domainadaption
+领域自适应 ling'yu'zi'shi'ying
+Dominant strategy _Dominantstrategy
+占优策略 zhan'you'ce'lue
+Double backprop _Doublebackprop
+双反向传播 shuang'fan'xiang'chuan'bo
+Doubly block circulant matrix _Doublyblockcirculantmatrix
+双重分块循环矩阵 shuang'chong'fen'kuai'xun'huan'ju'zhen
+Downsampling _Downsampling
+下采样 xia'cai'yang
+D-separation/Directed separation _DseparationDirectedseparation
+有向分离 you'xiang'fen'li
+Dual problem _Dualproblem
+对偶问题 dui'ou'wen'ti
+Dummy node _Dummynode
+哑结点 ya'jie'dian
+Dynamic Fusion _DynamicFusion
+动态融合 dong'tai'rong'he
+Dynamic programming _Dynamicprogramming
+动态规划 dong'tai'gui'hua
+Echo state network _Echostatenetwork
+回声状态网络 hui'sheng'zhuang'tai'wang'luo
+Edge device _Edgedevice
+边缘设备 bian'yuan'she'bei
+Eigendecomposition _Eigendecomposition
+特征分解 te'zheng'fen'jie
+Eigenvalue _Eigenvalue
+特征值 te'zheng'zhi
+Eigenvalue decomposition _Eigenvaluedecomposition
+特征值分解 te'zheng'zhi'fen'jie
+Eigenvector _Eigenvector
+特征向量 te'zheng'xiang'liang
+Element-wise product _Elementwiseproduct
+元素对应乘积 yuan'su'dui'ying'cheng'ji
+Ellipsoid method _Ellipsoidmethod
+椭球法 tuo'qiu'fa
+Embedding _Embedding
+嵌套 qian'tao
+Emotional analysis _Emotionalanalysis
+情绪分析 qing'xu'fen'xi
+Empirical conditional entropy _Empiricalconditionalentropy
+经验条件熵 jing'yan'tiao'jian'shang
+Empirical entropy _Empiricalentropy
+经验熵 jing'yan'shang
+Empirical error _Empiricalerror
+经验误差 jing'yan'wu'cha
+Empirical risk _Empiricalrisk
+经验风险 jing'yan'feng'xian
+End-to-End _EndtoEnd
+端到端 duan'dao'duan
+Energy-based model _Energybasedmodel
+基于能量的模型 ji'yu'neng'liang'de'mo'xing
+Ensemble learning _Ensemblelearning
+集成学习 ji'cheng'xue'xi
+Ensemble pruning _Ensemblepruning
+集成修剪 ji'cheng'xiu'jian
+Epochs _Epochs
+轮数/周期 lun'shu'zhou'qi
+Error Correcting Output Codes/ECOC _ErrorCorrectingOutputCodesECOC
+纠错输出码 jiu'cuo'shu'chu'ma
+Error rate _Errorrate
+错误率 cuo'wu'lv
+Error-ambiguity decomposition _Errorambiguitydecomposition
+误差-分歧分解 wu'cha'fen'qi'fen'jie
+Euclidean distance _Euclideandistance
+欧氏距离 ou'shi'ju'li
+Euclidean norm _Euclideannorm
+欧几里得范数 ou'ji'li'de'fan'shu
+Evolutionary computation _Evolutionarycomputation
+演化计算 yan'hua'ji'suan
+Exact _Exact
+确切的 que'qie'de
+Expectation-Maximization/EM _ExpectationMaximizationEM
+期望最大化 qi'wang'zui'da'hua
+Expected loss _Expectedloss
+期望损失 qi'wang'sun'shi
+Expert network _Expertnetwork
+专家网络 zhuan'jia'wang'luo
+相消解释作用 xiang'xiao'jie'shi'zuo'yong
+Exploding Gradient Problem _ExplodingGradientProblem
+梯度爆炸问题 ti'du'bao'zha'wen'ti
+Exploitation _Exploitation
+利用 li'yong
+Exploration _Exploration
+探索 tan'suo
+Exponential loss function _Exponentiallossfunction
+指数损失函数 zhi'shu'sun'shi'han'shu
+Extreme Learning Machine/ELM _ExtremeLearningMachineELM
+超限学习机 chao'xian'xue'xi'ji
+Factor analysis _Factoranalysis
+因子分析 yin'zi'fen'xi
+Factorization _Factorization
+因子分解 yin'zi'fen'jie
+Factors of variation _Factorsofvariation
+变差因素 bian'cha'yin'su
+False negative _Falsenegative
+假负例 jia'fu'li
+False positive _Falsepositive
+假正例 jia'zheng'li
+False Positive Rate/FPR _FalsePositiveRateFPR
+假正例率 jia'zheng'li'lv
+Fault-tolerant asynchronous training _Faulttolerantasynchronoustraining
+容错异步训练 rong'cuo'yi'bu'xun'lian
+Feature engineering _Featureengineering
+特征工程 te'zheng'gong'cheng
+Feature extractor _Featureextractor
+特征提取器 te'zheng'ti'qu'qi
+Feature map _Featuremap
+特征图 te'zheng'tu
+Feature selection _Featureselection
+特征选择 te'zheng'xuan'ze
+Feature vector _Featurevector
+特征向量 te'zheng'xiang'liang
+Featured Learning _FeaturedLearning
+特征学习 te'zheng'xue'xi
+Feedforward Neural Networks/FNN _FeedforwardNeuralNetworksFNN
+前馈神经网络 qian'kui'shen'jing'wang'luo
+Field Programmable Gated Array _FieldProgrammableGatedArray
+现场可编程门阵列 xian'chang'ke'bian'cheng'men'zhen'lie
+Fine-tuning _Finetuning
+精调 jing'tiao
+Finite difference _Finitedifference
+有限差分 you'xian'cha'fen
+Fixed point equation _Fixedpointequation
+不动点方程 bu'dong'dian'fang'cheng
+Flipping output _Flippingoutput
+翻转法 fan'zhuan'fa
+Fluctuation _Fluctuation
+震荡 zhen'dang
+Folk Theorem _FolkTheorem
+无名氏定理 wu'ming'shi'ding'li
+Forget gate _Forgetgate
+遗忘门 yi'wang'men
+Forward stagewise algorithm _Forwardstagewisealgorithm
+前向分步算法 qian'xiang'fen'bu'suan'fa
+Fourier transform _Fouriertransform
+傅立叶变换 fu'li'ye'bian'huan
+Frequentist _Frequentist
+频率主义学派 pin'lv'zhu'yi'xue'pai
+Frequentist probability _Frequentistprobability
+频率派概率 pin'lv'pai'gai'lv
+Full-rank matrix _Fullrankmatrix
+满秩矩阵 man'zhi'ju'zhen
+Functional derivative _Functionalderivative
+泛函导数 fan'han'dao'shu
+Functional neuron _Functionalneuron
+功能神经元 gong'neng'shen'jing'yuan
+Gain ratio _Gainratio
+增益率 zeng'yi'lv
+Game payoff _Gamepayoff
+博弈效用 bo'yi'xiao'yong
+Game theory _Gametheory
+博弈论 bo'yi'lun
+Gated recurrent net/GRN _GatedrecurrentnetGRN
+门控循环网络 men'kong'xun'huan'wang'luo
+Gaussian kernel function _Gaussiankernelfunction
+高斯核函数 gao'si'he'han'shu
+Gaussian Mixture Model _GaussianMixtureModel
+高斯混合模型 gao'si'hun'he'mo'xing
+Gaussian Process _GaussianProcess
+高斯过程 gao'si'guo'cheng
+General Problem Solving _GeneralProblemSolving
+通用问题求解 tong'yong'wen'ti'qiu'jie
+Generalization _Generalization
+泛化 fan'hua
+Generalization error _Generalizationerror
+泛化误差 fan'hua'wu'cha
+Generalization error bound _Generalizationerrorbound
+泛化误差上界 fan'hua'wu'cha'shang'jie
+Generalized Lagrange function _GeneralizedLagrangefunction
+广义拉格朗日函数 guang'yi'la'ge'lang'ri'han'shu
+Generalized linear model _Generalizedlinearmodel
+广义线性模型 guang'yi'xian'xing'mo'xing
+Generalized pseudolikelihood _Generalizedpseudolikelihood
+广义伪似然 guang'yi'wei'shi'ran
+Generalized Rayleigh quotient _GeneralizedRayleighquotient
+广义瑞利商 guang'yi'rui'li'shang
+Generalized score matching _Generalizedscorematching
+广义得分匹配 guang'yi'de'fen'pi'pei
+Generative Adversarial Networks/GAN _GenerativeAdversarialNetworksGAN
+生成对抗网络 sheng'cheng'dui'kang'wang'luo
+Generative Model _GenerativeModel
+生成模型 sheng'cheng'mo'xing
+Generative moment matching network _Generativemomentmatchingnetwork
+生成矩匹配网络 sheng'cheng'ju'pi'pei'wang'luo
+Generator _Generator
+生成器 sheng'cheng'qi
+Genetic Algorithm/GA _GeneticAlgorithmGA
+遗传算法 yi'chuan'suan'fa
+Giant magnetoresistance _Giantmagnetoresistance
+巨磁阻 ju'ci'zu
+Gibbs sampling _Gibbssampling
+吉布斯采样 ji'bu'si'cai'yang
+Gini index _Giniindex
+基尼指数 ji'ni'zhi'shu
+Global contrast normalization _Globalcontrastnormalization
+全局对比度归一化 quan'ju'dui'bi'du'gui'yi'hua
+Global minimum _Globalminimum
+全局最小 quan'ju'zui'xiao
+Global Optimization _GlobalOptimization
+全局优化 quan'ju'you'hua
+Gradient boosting tree _Gradientboostingtree
+梯度提升树 ti'du'ti'sheng'shu
+Gradient Descent _GradientDescent
+梯度下降 ti'du'xia'jiang
+Gradient energy distribution _Gradientenergydistribution
+梯度能量分布 ti'du'neng'liang'fen'bu
+Graph theory _Graphtheory
+图论 tu'lun
+Grid search _Gridsearch
+网格搜索 wang'ge'sou'suo
+Ground-truth _Groundtruth
+真相／真实 zhen'xiang'zhen'shi
+Hard  margin _Hardmargin
+硬间隔 ying'jian'ge
+Hard voting _Hardvoting
+硬投票 ying'tou'piao
+Harmonic mean _Harmonicmean
+调和平均 tiao'he'ping'jun
+Hesse matrix _Hessematrix
+海赛矩阵 hai'sai'ju'zhen
+Heterogeneous Information Network/HIN _HeterogeneousInformationNetworkHIN
+异质信息网络 yi'zhi'xin'xi'wang'luo
+Hidden dynamic model _Hiddendynamicmodel
+隐动态模型 yin'dong'tai'mo'xing
+Hidden layer _Hiddenlayer
+隐藏层 yin'cang'ceng
+Hidden Markov Model/HMM _HiddenMarkovModelHMM
+隐马尔可夫模型 yin'ma'er'ke'fu'mo'xing
+Hierarchical clustering _Hierarchicalclustering
+层次聚类 ceng'ci'ju'lei
+Hilbert space _Hilbertspace
+希尔伯特空间 xi'er'bo'te'kong'jian
+Hinge loss function _Hingelossfunction
+合页损失函数 he'ye'sun'shi'han'shu
+Hold-out _Holdout
+留出法 liu'chu'fa
+Homogeneous _Homogeneous
+同质 tong'zhi
+Hybrid computing _Hybridcomputing
+混合计算 hun'he'ji'suan
+Hyperparameter _Hyperparameter
+超参数 chao'can'shu
+Hypothesis _Hypothesis
+假设 jia'she
+Hypothesis test _Hypothesistest
+假设检验 jia'she'jian'yan
+ICML _ICML
+国际机器学习会议 guo'ji'ji'qi'xue'xi'hui'yi
+Identity matrix _Identitymatrix
+单位矩阵 dan'wei'ju'zhen
+Image restoration _Imagerestoration
+图像复原 tu'xiang'fu'yuan
+Imperfect Information _ImperfectInformation
+不完美信息 bu'wan'mei'xin'xi
+Improved iterative scaling/IIS _ImprovediterativescalingIIS
+改进的迭代尺度法 gai'jin'de'die'dai'chi'du'fa
+Incremental learning _Incrementallearning
+增量学习 zeng'liang'xue'xi
+Independent and identically distributed/i.i.d. _Independentandidenticallydistributediid
+独立同分布 du'li'tong'fen'bu
+Independent Component Analysis/ICA _IndependentComponentAnalysisICA
+独立成分分析 du'li'cheng'fen'fen'xi
+Independent subspace analysis _Independentsubspaceanalysis
+独立子空间分析 du'li'zi'kong'jian'fen'xi
+Indicator function _Indicatorfunction
+指示函数 zhi'shi'han'shu
+Individual learner _Individuallearner
+个体学习器 ge'ti'xue'xi'qi
+Induction _Induction
+归纳 gui'na
+Inductive bias _Inductivebias
+归纳偏好 gui'na'pian'hao
+Inductive learning _Inductivelearning
+归纳学习 gui'na'xue'xi
+Inductive Logic Programming/ILP _InductiveLogicProgrammingILP
+归纳逻辑程序设计 gui'na'luo'ji'cheng'xu'she'ji
+Inequality constraint _Inequalityconstraint
+不等式约束 bu'deng'shi'yue'shu
+Inference _Inference
+推断 tui'duan
+Information entropy _Informationentropy
+信息熵 xin'xi'shang
+Information gain _Informationgain
+信息增益 xin'xi'zeng'yi
+Input layer _Inputlayer
+输入层 shu'ru'ceng
+Insensitive loss _Insensitiveloss
+不敏感损失 bu'min'gan'sun'shi
+Instance segmentation _Instancesegmentation
+实例分割 shi'li'fen'ge
+Inter-cluster similarity _Interclustersimilarity
+簇间相似度 cu'jian'xiang'shi'du
+International Conference for Machine Learning/ICML _InternationalConferenceforMachineLearningICML
+国际机器学习大会 guo'ji'ji'qi'xue'xi'da'hui
+Intra-cluster similarity _Intraclustersimilarity
+簇内相似度 cu'nei'xiang'shi'du
+Intrinsic value _Intrinsicvalue
+固有值 gu'you'zhi
+Invariance _Invariance
+不变性 bu'bian'xing
+Invert _Invert
+求逆 qiu'ni
+Isometric Mapping/Isomap _IsometricMappingIsomap
+等度量映射 deng'du'liang'ying'she
+Isotonic regression _Isotonicregression
+等分回归 deng'fen'hui'gui
+Iterative Dichotomiser _IterativeDichotomiser
+迭代二分器 die'dai'er'fen'qi
+Jensen-Shannon Divergence/JSD _JensenShannonDivergenceJSD
+JS 散度 _JS'san'du
+Kernel method _Kernelmethod
+核方法 he'fang'fa
+Kernel trick _Kerneltrick
+核技巧 he'ji'qiao
+Kernelized Linear Discriminant Analysis/KLDA _KernelizedLinearDiscriminantAnalysisKLDA
+核线性判别分析 he'xian'xing'pan'bie'fen'xi
+K-fold cross validation _Kfoldcrossvalidation
+k 折交叉验证／k 倍交叉验证 _k'zhe'jiao'cha'yan'zheng'_k'bei'jiao'cha'yan'zheng
+K-Means Clustering _KMeansClustering
+K - 均值聚类 _K'jun'zhi'ju'lei
+K-Nearest Neighbours Algorithm/KNN _KNearestNeighboursAlgorithmKNN
+K近邻算法 _K'jin'lin'suan'fa
+Knowledge base _Knowledgebase
+知识库 zhi'shi'ku
+Knowledge Engineering _KnowledgeEngineering
+知识工程 zhi'shi'gong'cheng
+Knowledge graph _Knowledgegraph
+知识图谱 zhi'shi'tu'pu
+Knowledge Representation _KnowledgeRepresentation
+知识表征 zhi'shi'biao'zheng
+Label space _Labelspace
+标记空间 biao'ji'kong'jian
+Lagrange duality _Lagrangeduality
+拉格朗日对偶性 la'ge'lang'ri'dui'ou'xing
+Lagrange multiplier _Lagrangemultiplier
+拉格朗日乘子 la'ge'lang'ri'cheng'zi
+Laplace smoothing _Laplacesmoothing
+拉普拉斯平滑 la'pu'la'si'ping'hua
+Laplacian correction _Laplaciancorrection
+拉普拉斯修正 la'pu'la'si'xiu'zheng
+Latent Dirichlet Allocation/LDA _LatentDirichletAllocationLDA
+隐狄利克雷分布 yin'di'li'ke'lei'fen'bu
+Latent semantic analysis _Latentsemanticanalysis
+潜在语义分析 qian'zai'yu'yi'fen'xi
+Latent variable _Latentvariable
+隐变量 yin'bian'liang
+Law of large number _Lawoflargenumber
+大数定理 da'shu'ding'li
+Layer-wise Adaptive Rate Scaling/LARS _LayerwiseAdaptiveRateScalingLARS
+层级对应的适应率缩放 ceng'ji'dui'ying'de'shi'ying'lv'suo'fang
+Lazy learning _Lazylearning
+懒惰学习 lan'duo'xue'xi
+Leaky ReLU _LeakyReLU
+渗漏整流线性单元 shen'lou'zheng'liu'xian'xing'dan'yuan
+Learner _Learner
+学习器 xue'xi'qi
+Learning by analogy _Learningbyanalogy
+类比学习 lei'bi'xue'xi
+Learning rate _Learningrate
+学习速率 xue'xi'su'lv
+Learning Vector Quantization/LVQ _LearningVectorQuantizationLVQ
+学习向量量化 xue'xi'xiang'liang'liang'hua
+Least squares regression tree _Leastsquaresregressiontree
+最小二乘回归树 zui'xiao'er'cheng'hui'gui'shu
+Leave-One-Out/LOO _LeaveOneOutLOO
+留一法 liu'yi'fa
+Lebesgue-integrable _Lebesgueintegrable
+勒贝格可积 le'bei'ge'ke'ji
+Left eigenvector _Lefteigenvector
+左特征向量 zuo'te'zheng'xiang'liang
+Leibniz’s rule _Leibnizsrule
+莱布尼兹法则 lai'bu'ni'zi'fa'ze
+Linear Discriminant Analysis/LDA _LinearDiscriminantAnalysisLDA
+线性判别 xian'xing'pan'bie
+Linear model _Linearmodel
+线性模型 xian'xing'mo'xing
+Linear Regression _LinearRegression
+线性回归 xian'xing'hui'gui
+Linear threshold units _Linearthresholdunits
+线性阀值单元 xian'xing'fa'zhi'dan'yuan
+Link function _Linkfunction
+联系函数 lian'xi'han'shu
+Local conditional probability distribution _Localconditionalprobabilitydistribution
+局部条件概率分布 ju'bu'tiao'jian'gai'lv'fen'bu
+Local contrast normalization _Localcontrastnormalization
+局部对比度归一化 ju'bu'dui'bi'du'gui'yi'hua
+Local curvature _Localcurvature
+局部曲率 ju'bu'qu'lv
+Local Invariances _LocalInvariances
+局部不变性 ju'bu'bu'bian'xing
+Local Markov property _LocalMarkovproperty
+局部马尔可夫性 ju'bu'ma'er'ke'fu'xing
+Local minimum _Localminimum
+局部最小 ju'bu'zui'xiao
+Log likelihood _Loglikelihood
+对数似然 dui'shu'shi'ran
+Log odds/logit _Logoddslogit
+对数几率 dui'shu'ji'lv
+Logistic Regression _LogisticRegression
+Logistic 回归 _Logistic'hui'gui
+Log-likelihood _Loglikelihood
+对数似然 dui'shu'shi'ran
+Log-linear regression _Loglinearregression
+对数线性回归 dui'shu'xian'xing'hui'gui
+Long-Short Term Memory/LSTM _LongShortTermMemoryLSTM
+长短期记忆 chang'duan'qi'ji'yi
+Long-term dependency _Longtermdependency
+长期依赖 chang'qi'yi'lai
+Loopy belief propagation _Loopybeliefpropagation
+环状信念传播 huan'zhuang'xin'nian'chuan'bo
+Loss function _Lossfunction
+损失函数 sun'shi'han'shu
+Low rank matrix approximation _Lowrankmatrixapproximation
+低秩矩阵近似 di'zhi'ju'zhen'jin'shi
+Machine translation/MT _MachinetranslationMT
+机器翻译 ji'qi'fan'yi
+Macron-P _MacronP
+宏查准率 hong'cha'zhun'lv
+Macron-R _MacronR
+宏查全率 hong'cha'quan'lv
+Main diagonal _Maindiagonal
+主对角线 zhu'dui'jiao'xian
+Majority voting _Majorityvoting
+绝对多数投票法 jue'dui'duo'shu'tou'piao'fa
+Manifold assumption _Manifoldassumption
+流形假设 liu'xing'jia'she
+Manifold learning _Manifoldlearning
+流形学习 liu'xing'xue'xi
+流形正切分类器 liu'xing'zheng'qie'fen'lei'qi
+Margin theory _Margintheory
+间隔理论 jian'ge'li'lun
+Marginal distribution _Marginaldistribution
+边缘分布 bian'yuan'fen'bu
+Marginal independence _Marginalindependence
+边缘独立性 bian'yuan'du'li'xing
+Marginal probability distribution _Marginalprobabilitydistribution
+边缘概率分布 bian'yuan'gai'lv'fen'bu
+Marginalization _Marginalization
+边际化 bian'ji'hua
+Markov Chain _MarkovChain
+马尔可夫链 ma'er'ke'fu'lian
+Markov Chain Monte Carlo/MCMC _MarkovChainMonteCarloMCMC
+马尔可夫链蒙特卡罗方法 ma'er'ke'fu'lian'meng'te'ka'luo'fang'fa
+Markov Random Field _MarkovRandomField
+马尔可夫随机场 ma'er'ke'fu'sui'ji'chang
+Matrix inversion _Matrixinversion
+逆矩阵 ni'ju'zhen
+Maximal clique _Maximalclique
+最大团 zui'da'tuan
+Maximum A Posteriori _MaximumAPosteriori
+最大后验 zui'da'hou'yan
+Maximum Likelihood Estimation/MLE _MaximumLikelihoodEstimationMLE
+极大似然估计／极大似然法 ji'da'shi'ran'gu'ji'ji'da'shi'ran'fa
+Maximum margin _Maximummargin
+最大间隔 zui'da'jian'ge
+Maximum weighted spanning tree _Maximumweightedspanningtree
+最大带权生成树 zui'da'dai'quan'sheng'cheng'shu
+Max-Pooling _MaxPooling
+最大池化 zui'da'chi'hua
+Mean product of Student t-distribution _MeanproductofStudenttdistribution
+学生 t 分布均值乘积 xue'sheng'_t'fen'bu'jun'zhi'cheng'ji
+Mean squared error _Meansquarederror
+均方误差 jun'fang'wu'cha
+Mean-covariance restricted Boltzmann machine _MeancovariancerestrictedBoltzmannmachine
+均值-协方差受限玻尔兹曼机 jun'zhi'xie'fang'cha'shou'xian'bo'er'zi'man'ji
+Measure theory _Measuretheory
+测度论 ce'duo'lun
+Meta-learner _Metalearner
+元学习器 yuan'xue'xi'qi
+Metric learning _Metriclearning
+度量学习 du'liang'xue'xi
+Micro-P _MicroP
+微查准率 wei'cha'zhun'lv
+Micro-R _MicroR
+微查全率 wei'cha'quan'lv
+Mini-Batch SGD _MiniBatchSGD
+小批次随机梯度下降 xiao'pi'ci'sui'ji'ti'du'xia'jiang
+Minimal  Description Length/MDL _MinimalDescriptionLengthMDL
+最小描述长度 zui'xiao'miao'shu'chang'du
+Minimax game _Minimaxgame
+极小极大博弈 ji'xiao'ji'da'bo'yi
+Misclassification cost _Misclassificationcost
+误分类成本 wu'fen'lei'cheng'ben
+Mixture density network _Mixturedensitynetwork
+混合密度网络 hun'he'mi'du'wang'luo
+Mixture of experts _Mixtureofexperts
+混合专家 hun'he'zhuan'jia
+Model predictive control (MPC) _ModelpredictivecontrolMPC
+模型预测控制 mo'xing'yu'ce'kong'zhi
+Moment matching _Momentmatching
+矩匹配 ju'pi'pei
+Momentum _Momentum
+动量 dong'liang
+Monte Carlo Estimate _MonteCarloEstimate
+蒙特卡洛估计 meng'te'ka'luo'gu'ji
+Moore's Law _MooresLaw
+摩尔定律 mo'er'ding'lv
+Moral graph _Moralgraph
+道德图／端正图 dao'de'tu'duan'zheng'tu
+Multi-class classification _Multiclassclassification
+多类别分类 duo'lei'bie'fen'lei
+Multi-document summarization _Multidocumentsummarization
+多文档摘要 duo'wen'dang'zhai'yao
+Multi-kernel learning _Multikernellearning
+多核学习 duo'he'xue'xi
+Multi-layer feedforward neural networks _Multilayerfeedforwardneuralnetworks
+多层前馈神经网络 duo'ceng'qian'kui'shen'jing'wang'luo
+Multilayer Perceptron/MLP _MultilayerPerceptronMLP
+多层感知器 duo'ceng'gan'zhi'qi
+Multimodal learning _Multimodallearning
+多模态学习 duo'mo'tai'xue'xi
+Multinomial distribution _Multinomialdistribution
+多项分布 duo'xiang'fen'bu
+Multiple Dimensional Scaling _MultipleDimensionalScaling
+多维缩放 duo'wei'suo'fang
+Multiple linear regression _Multiplelinearregression
+多元线性回归 duo'yuan'xian'xing'hui'gui
+Multi-response Linear Regression/MLR _MultiresponseLinearRegressionMLR
+多响应线性回归 duo'xiang'ying'xian'xing'hui'gui
+Multivariate normal distribution _Multivariatenormaldistribution
+多维正态分布 duo'wei'zheng'tai'fen'bu
+Mutual information _Mutualinformation
+互信息 hu'xin'xi
+Naive bayes _Naivebayes
+朴素贝叶斯 pu'su'bei'ye'si
+Naive Bayes Classifier _NaiveBayesClassifier
+朴素贝叶斯分类器 pu'su'bei'ye'si'fen'lei'qi
+Named entity recognition _Namedentityrecognition
+命名实体识别 ming'ming'shi'ti'shi'bie
+Nash equilibrium _Nashequilibrium
+纳什均衡 na'shen'jun'heng
+Nash reversion _Nashreversion
+纳什回归 na'shen'hui'gui
+Natural language generation/NLG _NaturallanguagegenerationNLG
+自然语言生成 zi'ran'yu'yan'sheng'cheng
+Natural language processing _Naturallanguageprocessing
+自然语言处理 zi'ran'yu'yan'chu'li
+Nearest-neighbor search _Nearestneighborsearch
+最近邻搜索 zui'jin'lin'sou'suo
+Negative class _Negativeclass
+负类 fu'lei
+Negative correlation _Negativecorrelation
+负相关法 fu'xiang'guan'fa
+负定 fu'ding
+Negative Log Likelihood _NegativeLogLikelihood
+负对数似然 fu'dui'shu'shi'ran
+半负定 ban'fu'ding
+Neighbourhood Component Analysis/NCA _NeighbourhoodComponentAnalysisNCA
+近邻成分分析 jin'lin'cheng'fen'fen'xi
+Neural Machine Translation _NeuralMachineTranslation
+神经机器翻译 shen'jing'ji'qi'fan'yi
+Neural Turing Machine _NeuralTuringMachine
+神经图灵机 shen'jing'tu'ling'ji
+Neuromorphic Computing _NeuromorphicComputing
+神经形态计算 shen'jing'xing'tai'ji'suan
+Newton method _Newtonmethod
+牛顿法 niu'dun'fa
+Conference on Neural Information Processing Systems/NIPS _ConferenceonNeuralInformationProcessingSystemsNIPS
+国际神经信息处理系统会议 guo'ji'shen'jing'xin'xi'chu'li'xi'tong'hui'yi
+No Free Lunch Theorem/NFL _NoFreeLunchTheoremNFL
+没有免费的午餐定理 mei'you'mian'fei'de'wu'can'ding'li
+Noise-contrastive estimation _Noisecontrastiveestimation
+噪音对比估计 zao'yin'dui'bi'gu'ji
+Nominal attribute _Nominalattribute
+列名属性 lie'ming'shu'xing
+Non-convex optimization _Nonconvexoptimization
+非凸优化 fei'tu'you'hua
+Nonlinear model _Nonlinearmodel
+非线性模型 fei'xian'xing'mo'xing
+Non-linear oscillation _Nonlinearoscillation
+非线性振荡 fei'xian'xing'zhen'dang
+Non-metric distance _Nonmetricdistance
+非度量距离 fei'du'liang'ju'li
+Non-negative matrix factorization _Nonnegativematrixfactorization
+非负矩阵分解 fei'fu'ju'zhen'fen'jie
+Non-ordinal attribute _Nonordinalattribute
+无序属性 wu'xu'shu'xing
+Non-Saturating Game _NonSaturatingGame
+非饱和博弈 fei'bao'he'bo'yi
+Norm _Norm
+范数 fan'shu
+Normalization _Normalization
+归一化 gui'yi'hua
+Nuclear norm _Nuclearnorm
+核范数 he'fan'shu
+Numerical attribute _Numericalattribute
+数值属性 shu'zhi'shu'xing
+Numerical optimization _Numericaloptimization
+数值优化 shu'zhi'you'hua
+Objective function _Objectivefunction
+目标函数 mu'biao'han'shu
+Oblique decision tree _Obliquedecisiontree
+斜决策树 xie'jue'ce'shu
+Occam's razor _Occamsrazor
+奥卡姆剃刀 ao'ka'mu'ti'dao
+Odds _Odds
+几率 ji'lv
+Offline inference _Offlineinference
+离线推断 li'xian'tui'duan
+Off-Policy _OffPolicy
+离策略 li'ce'lue
+Offset vector _Offsetvector
+偏移向量 pian'yi'xiang'liang
+One shot learning _Oneshotlearning
+一次性学习 yi'ci'xing'xue'xi
+One-Dependent Estimator/ODE _OneDependentEstimatorODE
+独依赖估计 du'yi'lai'gu'ji
+Online inference _Onlineinference
+在线推断 zai'xian'tui'duan
+On-Policy _OnPolicy
+在策略 zai'ce'lue
+Ordinal attribute _Ordinalattribute
+有序属性 you'xu'shu'xing
+Orthogonal matrix _Orthogonalmatrix
+正交矩阵 zheng'jiao'ju'zhen
+Orthonormal _Orthonormal
+标准正交 biao'zhun'zheng'jiao
+Outlier _Outlier
+异常值/离群值 yi'chang'zhi'li'qun'zhi
+Out-of-bag estimate _Outofbagestimate
+包外估计 bao'wai'gu'ji
+Output layer _Outputlayer
+输出层 shu'chu'ceng
+Output smearing _Outputsmearing
+输出调制法 shu'chu'tiao'zhi'fa
+Overcomplete _Overcomplete
+过完备 guo'wan'bei
+Overfitting _Overfitting
+过拟合／过配 guo'ni'he'guo'pei
+Oversampling _Oversampling
+过采样 guo'cai'yang
+Paired t-test _Pairedttest
+成对 t 检验 cheng'dui'_t'jian'yan
+Pairwise _Pairwise
+成对型 cheng'dui'xing
+Pairwise Markov property _PairwiseMarkovproperty
+成对马尔可夫性 cheng'dui'ma'er'ke'fu'xing
+Parallel tempering _Paralleltempering
+并行回火 bing'xing'hui'huo
+Parameter _Parameter
+参数 can'shu
+Parameter estimation _Parameterestimation
+参数估计 can'shu'gu'ji
+Parameter Server _ParameterServer
+参数服务器 can'shu'fu'wu'qi
+Parameter tuning _Parametertuning
+调参 tiao'can
+Parse tree _Parsetree
+解析树 jie'xi'shu
+Partial derivative _Partialderivative
+偏导数 pian'dao'shu
+Particle Swarm Optimization/PSO _ParticleSwarmOptimizationPSO
+粒子群优化算法 li'zi'qun'you'hua'suan'fa
+Part-of-speech tagging _Partofspeechtagging
+词性标注 ci'xing'biao'zhu
+Perceptron _Perceptron
+感知机 gan'zhi'ji
+Performance measure _Performancemeasure
+性能度量 xing'neng'du'liang
+Permutation invariant _Permutationinvariant
+置换不变性 zhi'huan'bu'bian'xing
+Perplexity _Perplexity
+困惑度 kun'huo'du
+Pictorial structure _Pictorialstructure
+图形结构 tu'xing'jie'gou
+Plug and Play Generative Network _PlugandPlayGenerativeNetwork
+即插即用生成网络 ji'cha'ji'yong'sheng'cheng'wang'luo
+Plurality voting _Pluralityvoting
+相对多数投票法 xiang'dui'duo'shu'tou'piao'fa
+Polarity detection _Polaritydetection
+极性检测 ji'xing'jian'ce
+Polynomial Basis Function _PolynomialBasisFunction
+多项式基函数 duo'xiang'shi'ji'han'shu
+Polynomial kernel function _Polynomialkernelfunction
+多项式核函数 duo'xiang'shi'he'han'shu
+Pooling _Pooling
+池化 chi'hua
+Positive class _Positiveclass
+正类 zheng'lei
+Positive definite matrix _Positivedefinitematrix
+正定矩阵 zheng'ding'ju'zhen
+Posterior inference _Posteriorinference
+后验推断 hou'yan'tui'duan
+Posterior probability _Posteriorprobability
+后验概率 hou'yan'gai'lv
+Post-hoc test _Posthoctest
+后续检验 hou'xu'jian'yan
+Post-pruning _Postpruning
+后剪枝 hou'jian'zhi
+potential function _potentialfunction
+势函数 shi'han'shu
+Power method _Powermethod
+幂方法 mi'fang'fa
+Precision _Precision
+查准率／精确率 cha'zhun'lv'jing'que'lv
+Prepruning _Prepruning
+预剪枝 yu'jian'zhi
+Principal component analysis/PCA _PrincipalcomponentanalysisPCA
+主成分分析 zhu'cheng'fen'fen'xi
+Principle of multiple explanations _Principleofmultipleexplanations
+多释原则 duo'shi'yuan'ze
+Prior knowledge _Priorknowledge
+先验知识 xian'yan'zhi'shi
+Probability Graphical Model _ProbabilityGraphicalModel
+概率图模型 gai'lv'tu'mo'xing
+Proximal Gradient Descent/PGD _ProximalGradientDescentPGD
+近端梯度下降 jin'duan'ti'du'xia'jiang
+Pruning _Pruning
+剪枝 jian'zhi
+Pseudo-label _Pseudolabel
+伪标记 wei'biao'ji
+Quadratic Programming _QuadraticProgramming
+二次规划 er'ci'gui'hua
+Quantized Neural Network/QNN _QuantizedNeuralNetworkQNN
+量子化神经网络 liang'zi'hua'shen'jing'wang'luo
+Quantum computer _Quantumcomputer
+量子计算机 liang'zi'ji'suan'ji
+Quantum Computing _QuantumComputing
+量子计算 liang'zi'ji'suan
+Quantum machine learning _Quantummachinelearning
+量子机器学习 liang'zi'ji'qi'xue'xi
+Quasi Newton method _QuasiNewtonmethod
+拟牛顿法 ni'niu'dun'fa
+Quasi-concave _Quasiconcave
+拟凹 ni'ao
+Radial Basis Function/RBF _RadialBasisFunctionRBF
+径向基函数 jing'xiang'ji'han'shu
+Random Forest Algorithm _RandomForestAlgorithm
+随机森林算法 sui'ji'sen'lin'suan'fa
+Random walk _Randomwalk
+随机漫步 sui'ji'man'bu
+Recall _Recall
+召回率／查全率 zhao'hui'lv'cha'quan'lv
+Receiver Operating Characteristic/ROC _ReceiverOperatingCharacteristicROC
+受试者工作特征 shou'shi'zhe'gong'zuo'te'zheng
+Rectified Linear Unit/ReLU _RectifiedLinearUnitReLU
+线性修正单元 xian'xing'xiu'zheng'dan'yuan
+Recurrent Neural Network _RecurrentNeuralNetwork
+循环神经网络 xun'huan'shen'jing'wang'luo
+Recursive neural network _Recursiveneuralnetwork
+递归神经网络 di'gui'shen'jing'wang'luo
+Reference model _Referencemodel
+参考模型 can'kao'mo'xing
+Regression _Regression
+回归 hui'gui
+Regularization _Regularization
+正则化 zheng'ze'hua
+Regularizer _Regularizer
+正则化项 zheng'ze'hua'xiang
+Reinforcement learning/RL _ReinforcementlearningRL
+强化学习 qiang'hua'xue'xi
+Relative entropy _Relativeentropy
+相对熵 xiang'dui'shang
+Reparametrization _Reparametrization
+重参数化 zhong'can'shu'hua
+Representation learning _Representationlearning
+表征学习 biao'zheng'xue'xi
+Representer theorem _Representertheorem
+表示定理 biao'shi'ding'li
+Reproducing Kernel Hilbert Space/RKHS _ReproducingKernelHilbertSpaceRKHS
+再生核希尔伯特空间 zai'sheng'he'xi'er'bo'te'kong'jian
+Re-sampling _Resampling
+重采样法 zhong'cai'yang'fa
+Rescaling _Rescaling
+再缩放 zai'suo'fang
+Reservoir computing _Reservoircomputing
+储层计算 chu'ceng'ji'suan
+Residual Blocks _ResidualBlocks
+残差块 can'cha'kuai
+Residual Mapping _ResidualMapping
+残差映射 can'cha'ying'she
+Residual Network _ResidualNetwork
+残差网络 can'cha'wang'luo
+Restricted Boltzmann Machine/RBM _RestrictedBoltzmannMachineRBM
+受限玻尔兹曼机 shou'xian'bo'er'zi'man'ji
+Restricted Isometry Property/RIP _RestrictedIsometryPropertyRIP
+限定等距性 xian'ding'deng'ju'xing
+Reverse mode accumulation _Reversemodeaccumulation
+反向模式累加 fan'xiang'mo'shi'lei'jia
+Re-weighting _Reweighting
+重赋权法 zhong'fu'quan'fa
+Ridge regression _Ridgeregression
+岭回归 ling'hui'gui
+Robustness _Robustness
+稳健性/鲁棒性 wen'jian'xing'lu'bang'xing
+Root node _Rootnode
+根结点 gen'jie'dian
+Rule Engine _RuleEngine
+规则引擎 gui'ze'yin'qing
+Rule learning _Rulelearning
+规则学习 gui'ze'xue'xi
+Saddle point _Saddlepoint
+鞍点 an'dian
+Saddle-free Newton method _SaddlefreeNewtonmethod
+无鞍牛顿法 wu'an'niu'dun'fa
+Saliency map _Saliencymap
+显著图 xian'zhu'tu
+Sample space _Samplespace
+样本空间 yang'ben'kong'jian
+Sampling _Sampling
+采样 cai'yang
+Score function _Scorefunction
+评分函数 ping'fen'han'shu
+Second derivative _Secondderivative
+二阶导数 er'jie'dao'shu
+Second-order method _Secondordermethod
+二阶方法 er'jie'fang'fa
+Self-contrastive estimation _Selfcontrastiveestimation
+自对比估计 zi'dui'bi'gu'ji
+Self-Driving _SelfDriving
+自动驾驶 zi'dong'jia'shi
+Self-Organizing Map/SOM _SelfOrganizingMapSOM
+自组织映射 zi'zu'zhi'ying'she
+Semantic hashing _Semantichashing
+语义哈希 yu'yi'ha'xi
+Semantic segmentation _Semanticsegmentation
+语义分割 yu'yi'fen'ge
+Semantic similarity _Semanticsimilarity
+语义相似度 yu'yi'xiang'shi'du
+Semi-Definite Programming _SemiDefiniteProgramming
+半正定规划 ban'zheng'ding'gui'hua
+Semi-naive Bayes classifiers _SeminaiveBayesclassifiers
+半朴素贝叶斯分类器 ban'pu'su'bei'ye'si'fen'lei'qi
+Semi-restricted Boltzmann Machine _SemirestrictedBoltzmannMachine
+半受限波尔兹曼机 ban'shou'xian'bo'er'zi'man'ji
+Semi-Supervised Learning _SemiSupervisedLearning
+半监督学习 ban'jian'du'xue'xi
+semi-Supervised Support Vector Machine _semiSupervisedSupportVectorMachine
+半监督支持向量机 ban'jian'du'zhi'chi'xiang'liang'ji
+Sentiment analysis _Sentimentanalysis
+情感分析 qing'gan'fen'xi
+Separating hyperplane _Separatinghyperplane
+分离超平面 fen'li'chao'ping'mian
+Shannon entropy _Shannonentropy
+香农熵 xiang'nong'shang
+Shift invariance _Shiftinvariance
+平移不变性 ping'yi'bu'bian'xing
+Siamese Network _SiameseNetwork
+孪生网络 luan'sheng'wang'luo
+Sigmoid function _Sigmoidfunction
+Sigmoid 函数/S 型函数 _Sigmoid'han'shu'_S'xing'han'shu
+Similarity measure _Similaritymeasure
+相似度度量 xiang'shi'du'du'liang
+Simulated annealing _Simulatedannealing
+模拟退火 mo'ni'tui'huo
+Simultaneous localization and mapping/SLAM _SimultaneouslocalizationandmappingSLAM
+同步定位与地图构建 tong'bu'ding'wei'yu'di'tu'gou'jian
+Singular value _Singularvalue
+奇异值 qi'yi'zhi
+Singular Value Decomposition _SingularValueDecomposition
+奇异值分解 qi'yi'zhi'fen'jie
+Slack variables _Slackvariables
+松弛变量 song'chi'bian'liang
+Slowness principle _Slownessprinciple
+慢性原则 man'xing'yuan'ze
+Smoothing _Smoothing
+平滑 ping'hua
+Smoothness prior _Smoothnessprior
+平滑先验 ping'hua'xian'yan
+Soft margin _Softmargin
+软间隔 ruan'jian'ge
+Soft margin maximization _Softmarginmaximization
+软间隔最大化 ruan'jian'ge'zui'da'hua
+Soft voting _Softvoting
+软投票 ruan'tou'piao
+Sparse activation _Sparseactivation
+稀疏激活 xi'shu'ji'huo
+Sparse coding _Sparsecoding
+稀疏编码 xi'shu'bian'ma
+Sparse connectivity _Sparseconnectivity
+稀疏连接 xi'shu'lian'jie
+Sparse initialization _Sparseinitialization
+稀疏初始化 xi'shu'chu'shi'hua
+Sparse representation _Sparserepresentation
+稀疏表征 xi'shu'biao'zheng
+Sparsity _Sparsity
+稀疏性 xi'shu'xing
+Specialization _Specialization
+特化 te'hua
+Spectral Clustering _SpectralClustering
+谱聚类 pu'ju'lei
+Spectral radius _Spectralradius
+谱半径 pu'ban'jing
+Speech Recognition _SpeechRecognition
+语音识别 yu'yin'shi'bie
+Spiking Neural Nets _SpikingNeuralNets
+脉冲神经网络 mai'chong'shen'jing'wang'luo
+Splitting variable _Splittingvariable
+切分变量 qie'fen'bian'liang
+Squashing function _Squashingfunction
+挤压函数 ji'ya'han'shu
+Stability-plasticity dilemma _Stabilityplasticitydilemma
+可塑性-稳定性困境 ke'su'xing'wen'ding'xing'kun'jing
+Stacked Deconvolutional Network/SDN _StackedDeconvolutionalNetworkSDN
+堆叠解卷积网络 dui'die'jie'juan'ji'wang'luo
+Standard deviation _Standarddeviation
+标准差 biao'zhun'cha
+Static game _Staticgame
+静态博弈 jing'tai'bo'yi
+Stationary distribution _Stationarydistribution
+稳态分布 wen'tai'fen'bu
+Stationary point _Stationarypoint
+驻点 zhu'dian
+Statistical learning _Statisticallearning
+统计学习 tong'ji'xue'xi
+Status feature function _Statusfeaturefunction
+状态特征函数 zhuang'tai'te'zheng'han'shu
+Stochastic gradient descent _Stochasticgradientdescent
+随机梯度下降 sui'ji'ti'du'xia'jiang
+Stochastic Matrix _StochasticMatrix
+随机矩阵 sui'ji'ju'zhen
+Stochastic maximum likelihood _Stochasticmaximumlikelihood
+随机最大似然 sui'ji'zui'da'shi'ran
+Stochastic Neighbor Embedding _StochasticNeighborEmbedding
+随机近邻嵌入 sui'ji'jin'lin'qian'ru
+Stratified sampling _Stratifiedsampling
+分层采样 fen'ceng'cai'yang
+Structural  risk _Structuralrisk
+结构风险 jie'gou'feng'xian
+Structural risk minimization/SRM _StructuralriskminimizationSRM
+结构风险最小化 jie'gou'feng'xian'zui'xiao'hua
+Structured variational inference _Structuredvariationalinference
+结构化变分推断 jie'gou'hua'bian'fen'tui'duan
+Subsampling _Subsampling
+下采样 xia'cai'yang
+Subspace _Subspace
+子空间 zi'kong'jian
+Supervised learning _Supervisedlearning
+监督学习／有导师学习 jian'du'xue'xi'you'dao'shi'xue'xi
+support vector expansion _supportvectorexpansion
+支持向量展式 zhi'chi'xiang'liang'zhan'shi
+Support Vector Machine/SVM _SupportVectorMachineSVM
+支持向量机 zhi'chi'xiang'liang'ji
+Surrogat loss _Surrogatloss
+替代损失 ti'dai'sun'shi
+Surrogate function _Surrogatefunction
+替代函数 ti'dai'han'shu
+Symbolic learning _Symboliclearning
+符号学习 fu'hao'xue'xi
+Symbolism _Symbolism
+符号主义 fu'hao'zhu'yi
+Synset _Synset
+同义词集 tong'yi'ci'ji
+Synthetic feature _Syntheticfeature
+合成特征 he'cheng'te'zheng
+Tangent plane _Tangentplane
+切平面 qie'ping'mian
+Tangent prop _Tangentprop
+正切传播 zheng'qie'chuan'bo
+T-Distribution Stochastic Neighbour Embedding/t-SNE _TDistributionStochasticNeighbourEmbeddingtSNE
+T分布随机近邻嵌入 _T'fen'bu'sui'ji'jin'lin'qian'ru
+Tempered transition _Temperedtransition
+回火转移 hui'huo'zhuan'yi
+Tensor _Tensor
+张量 zhang'liang
+Tensor Processing Units/TPU _TensorProcessingUnitsTPU
+张量处理单元 zhang'liang'chu'li'dan'yuan
+The least square method _Theleastsquaremethod
+最小二乘法 zui'xiao'er'cheng'fa
+Threshold _Threshold
+阈值 yu'zhi
+Threshold logic unit _Thresholdlogicunit
+阈值逻辑单元 yu'zhi'luo'ji'dan'yuan
+Threshold-moving _Thresholdmoving
+阈值移动 yu'zhi'yi'dong
+Tiled convolution _Tiledconvolution
+平铺卷积 ping'pu'juan'ji
+Time delay neural network _Timedelayneuralnetwork
+时延神经网络 shi'yan'shen'jing'wang'luo
+Time Step _TimeStep
+时间步骤 shi'jian'bu'zhou
+Tractable _Tractable
+易处理的 yi'chu'li'de
+Tokenization _Tokenization
+标记化/分词 biao'ji'hua'fen'ci
+Training error _Trainingerror
+训练误差 xun'lian'wu'cha
+Training instance _Traininginstance
+训练实例 xun'lian'shi'li
+Transductive learning _Transductivelearning
+直推学习 zhi'tui'xue'xi
+Transfer learning _Transferlearning
+迁移学习/转移学习 qian'yi'xue'xi'zhuan'yi'xue'xi
+Treebank _Treebank
+树库 shu'ku
+Trial-by-error _Trialbyerror
+试错法 shi'cuo'fa
+Triangulate _Triangulate
+三角形化 san'jiao'xing'hua
+Trigram _Trigram
+三元语法 san'yuan'yu'fa
+True negative _Truenegative
+真负例 zhen'fu'li
+True positive _Truepositive
+真正例 zhen'zheng'li
+True Positive Rate/TPR _TruePositiveRateTPR
+真正例率 zhen'zheng'li'lv
+Turing Machine _TuringMachine
+图灵机 tu'ling'ji
+Twice-learning _Twicelearning
+二次学习 er'ci'xue'xi
+Two-dimensional array _Twodimensionalarray
+二维数组 er'wei'shu'zu
+Underestimation _Underestimation
+欠估计 qian'gu'ji
+Underfitting _Underfitting
+欠拟合／欠配 qian'ni'he'qian'pei
+Undersampling _Undersampling
+欠采样 qian'cai'yang
+Understandability _Understandability
+可理解性 ke'li'jie'xing
+Undirected graphical model _Undirectedgraphicalmodel
+无向图模型 wu'xiang'tu'mo'xing
+Unequal cost _Unequalcost
+非均等代价 fei'jun'deng'dai'jia
+Unit norm _Unitnorm
+单位范数 dan'wei'fan'shu
+Unit test _Unittest
+单元测试 dan'yuan'ce'shi
+Unit variance _Unitvariance
+单位方差 dan'wei'fang'cha
+Unitary matrix _Unitarymatrix
+酉矩阵 you'ju'zhen
+Unit-step function _Unitstepfunction
+单位阶跃函数 dan'wei'jie'yue'han'shu
+Univariate decision tree _Univariatedecisiontree
+单变量决策树 dan'bian'liang'jue'ce'shu
+Unprojection _Unprojection
+反投影 fan'tou'ying
+Unshared convolution _Unsharedconvolution
+非共享卷积 fei'gong'xiang'juan'ji
+Unsupervised  learning _Unsupervisedlearning
+无监督学习／无导师学习 wu'jian'du'xue'xi'wu'dao'shi'xue'xi
+Unsupervised layer-wise training _Unsupervisedlayerwisetraining
+无监督逐层训练 wu'jian'du'zhu'ceng'xun'lian
+Upper Confidence Bounds _UpperConfidenceBounds
+上置信界限 shang'zhi'xin'jie'xian
+Upsampling _Upsampling
+上采样 shang'cai'yang
+Vanishing Gradient Problem _VanishingGradientProblem
+梯度消失问题 ti'du'xiao'shi'wen'ti
+Variational derivative _Variationalderivative
+变分导数 bian'fen'dao'shu
+Variational free energy _Variationalfreeenergy
+变分自由能 bian'fen'zi'you'neng
+Variational inference _Variationalinference
+变分推断 bian'fen'tui'duan
+VC Theory _VCTheory
+VC维理论 _VC'wei'li'lun
+Version space _Versionspace
+版本空间 ban'ben'kong'jian
+Virtual adversarial example _Virtualadversarialexample
+虚拟对抗样本 xu'ni'dui'kang'yang'ben
+Viterbi algorithm _Viterbialgorithm
+维特比算法 wei'te'bi'suan'fa
+Von Neumann architecture _VonNeumannarchitecture
+冯 · 诺伊曼架构 feng'nuo'yi'man'jia'gou
+Weak learner _Weaklearner
+弱学习器 ruo'xue'xi'qi
+Weight _Weight
+权重 quan'zhong
+Weight decaying _Weightdecaying
+权值衰减 quan'zhi'shuai'jian
+Weight sharing _Weightsharing
+权共享 quan'gong'xiang
+Weighted voting _Weightedvoting
+加权投票法 jia'quan'tou'piao'fa
+Wasserstein GAN/WGAN _WassersteinGANWGAN
+Wasserstein生成对抗网络 _Wasserstein'sheng'cheng'dui'kang'wang'luo
+Within-class scatter matrix _Withinclassscattermatrix
+类内散度矩阵 lei'nei'san'du'ju'zhen
+Word embedding _Wordembedding
+词嵌入 ci'qian'ru
+Word sense disambiguation _Wordsensedisambiguation
+词义消歧 ci'yi'xiao'qi
+Zero mean _Zeromean
+零均值 ling'jun'zhi
+Zero-data learning _Zerodatalearning
+零数据学习 ling'shu'ju'xue'xi
+Zero-shot learning _Zeroshotlearning
