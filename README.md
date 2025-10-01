@@ -22,6 +22,8 @@
 
    - 将 `dict/` 目录下的 `.dict` 文件复制到 fcitx5 的用户词典目录
    - 通常位于 `~/.local/share/fcitx5/pinyin/dictionaries/`（如果使用拼音输入法的话）
+   - 重启 fcitx5 使配置生效
+   - rime 用户`注意`：rime 不支持 .dict 格式，需要转换为 rime 的自定义词典格式 .dict.yaml。
 
 ## 🔗 友链
 
