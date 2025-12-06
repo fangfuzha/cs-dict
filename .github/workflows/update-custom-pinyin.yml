@@ -56,13 +56,15 @@ jobs:
             python script/update_custom_pinyin.py
           fi
 
-          # 检查是否有文件变更
-          if git diff --quiet dict/CustomPinyinDictionary_Fcitx.dict; then
-            echo "updated=false" >> $GITHUB_OUTPUT
-            echo "没有检测到文件变更"
-          else
+          # 检查是否有文件变更（更稳健地检测 dict 文件以及状态日志文件的新增/删除/修改）
+          # 使用 git status 的 pathspec 来避免 shell glob 导致的不一致行为。
+          CHANGES=$(git status --porcelain --untracked-files=all -- 'dict/CustomPinyinDictionary_Fcitx.dict' 'logs/custom_pinyin_status.json' 2>/dev/null || true)
+          if [ -n "$CHANGES" ]; then
             echo "updated=true" >> $GITHUB_OUTPUT
             echo "检测到文件已更新"
+          else
+            echo "updated=false" >> $GITHUB_OUTPUT
+            echo "没有检测到文件变更"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
