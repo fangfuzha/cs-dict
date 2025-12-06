@@ -1,8 +1,9 @@
 {
-  "version": "0.2.5",
-  "latest_dict_date": "20250823",
-  "latest_dict_name": "zhwiki-20250823.dict",
+  "version": "0.3.0",
+  "latest_dict_date": "20251104",
+  "latest_dict_name": "zhwiki-20251104.dict",
   "update_history": [
-    "2025-10-01 00:31:19: ✅ 成功 - 更新到版本 `0.2.5`, 词库文件: zhwiki-20250823.dict"
+    "2025-10-01 00:31:19: ✅ 成功 - 更新到版本 `0.2.5`, 词库文件: zhwiki-20250823.dict",
+    "2025-12-06 14:26:23: ✅ 成功 - 更新到版本 `0.3.0`, 词库文件: zhwiki-20251104.dict"
   ]
 }
