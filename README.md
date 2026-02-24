@@ -29,3 +29,4 @@
 
 - [cs-dict](https://github.com/ylfeng250/cs-dict) - 计算机领域词汇字典收集
 - [CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库
+- [fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - 中文维基百科词条词库

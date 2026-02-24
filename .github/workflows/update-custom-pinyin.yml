@@ -1,9 +1,9 @@
 name: Update Custom Pinyin Dictionary
 
 on:
-  # 每天凌晨2点自动检查更新
+  # 每周日凌晨3点自动检查更新
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 3 * * 0"
 
   # 允许手动触发
   workflow_dispatch:

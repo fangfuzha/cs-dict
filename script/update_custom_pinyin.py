@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 自动更新 CustomPinyinDictionary_Fcitx.dict 文件
-从 https://github.com/wuhgit/CustomPinyinDictionary 下载最新版本并转换格式
+从 https://github.com/wuhgit/CustomPinyinDictionary 下载最新版本并直接使用 dict 文件（以前为 tar.gz 压缩包）
 """
 
 # 关联文件
@@ -22,7 +22,6 @@ import sys
 import time
 import requests
 import json
-import tarfile
 import tempfile
 import shutil
 from pathlib import Path
@@ -277,11 +276,12 @@ class CustomPinyinUpdater:
       return match.group(1)
     return None
 
-  def find_tar_gz_asset(self, assets: List[dict]) -> Optional[dict]:
-    """查找tar.gz格式的资源文件"""
+
+  def find_dict_asset(self, assets: List[dict]) -> Optional[dict]:
+    """查找直接提供的 .dict 资源文件"""
     for asset in assets:
-      if asset['name'].endswith(
-          '.tar.gz') and TARGET_FILE_PATTERN in asset['name']:
+      # 名称中包含目标模式并且扩展名为 .dict
+      if asset['name'].endswith('.dict') and TARGET_FILE_PATTERN in asset['name']:
         return asset
     return None
 
@@ -303,25 +303,6 @@ class CustomPinyinUpdater:
       logger.error(f"下载失败: {e}")
       return False
 
-  def extract_tar_gz(self, tar_path: Path, extract_dir: Path) -> bool:
-    """解压tar.gz文件"""
-    try:
-      logger.info(f"开始解压: {tar_path}")
-      with tarfile.open(tar_path, 'r:gz') as tar:
-        tar.extractall(extract_dir)
-      logger.info(f"解压完成到: {extract_dir}")
-      return True
-    except Exception as e:
-      logger.error(f"解压失败: {e}")
-      return False
-
-  def find_dict_files(self, directory: Path) -> List[Path]:
-    """查找目录中的dict文件"""
-    dict_files = []
-    for dict_file in directory.rglob("*.dict"):
-      if TARGET_FILE_PATTERN in dict_file.name:
-        dict_files.append(dict_file)
-    return dict_files
 
   def copy_dict_file(self, source_dict: Path, output_file: Path) -> bool:
     """直接复制dict文件"""
@@ -365,18 +346,24 @@ class CustomPinyinUpdater:
     # 使用状态结构体存储版本信息
     self.new_status["version"] = release_info['tag_name']
 
-    # 查找并存储tar.gz资源信息
-    asset = self.find_tar_gz_asset(release_info.get('assets', []))
+    # 查找 .dict 资源文件
+    asset = self.find_dict_asset(release_info.get('assets', []))
     if not asset:
-      logger.error("未找到tar.gz格式的资源文件")
+      logger.error("未找到 .dict 资源文件")
       return False
-    else:
-      logger.info(f"找到资源文件名: {asset['name']}")
-      # 设置成员变量
-      self.asset_name = asset['name']
-      # 将资产日期信息存储到新状态中
-      self.new_status["asset_date"] = self.extract_date_from_filename(
-          asset['name'])
+    logger.info(f"找到 dict 资源文件: {asset['name']}")
+    self.asset_name = asset['name']
+    # 尝试从文件名提取日期，否则使用发布时间作为日期
+    date_str = self.extract_date_from_filename(asset['name'])
+    if not date_str and release_info.get('published_at'):
+      # 格式化为 YYYYMMDD
+      try:
+        from datetime import datetime
+        date_str = datetime.strptime(
+            release_info['published_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y%m%d')
+      except Exception:
+        date_str = None
+    self.new_status["asset_date"] = date_str
 
     if not self.should_update(force):
       logger.info("无需更新")
@@ -385,31 +372,16 @@ class CustomPinyinUpdater:
     # 创建临时目录，with语句结束后自动删除
     with tempfile.TemporaryDirectory() as temp_dir:
       temp_path = Path(temp_dir)
-      tar_file = temp_path / asset['name']
-      extract_dir = temp_path / "extracted"
+      downloaded_file = temp_path / asset['name']
 
       # 下载文件
-      if not self.download_file(asset['browser_download_url'], tar_file):
+      if not self.download_file(asset['browser_download_url'], downloaded_file):
         return False
 
-      # 解压文件
-      if not self.extract_tar_gz(tar_file, extract_dir):
-        return False
+      # 直接下载的应为 dict 文件
+      source_dict_file = downloaded_file
 
-      # 查找dict文件
-      dict_files = self.find_dict_files(extract_dir)
-      if not dict_files:
-        logger.error("解压后未找到CustomPinyinDictionary_Fcitx.dict文件")
-        return False
-
-      logger.info(f"找到 {len(dict_files)} 个dict文件:")
-      for dict_file in dict_files:
-        logger.info(f"  - {dict_file}")
-
-      # 使用第一个找到的dict文件
-      source_dict_file = dict_files[0]
-
-      # 直接复制dict文件
+      # 复制到目标位置
       if not self.copy_dict_file(source_dict_file, self.dict_file):
         return False
 
